@@ -91,7 +91,7 @@
             // 
             this.btnSmartCardReader.Appearance.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSmartCardReader.Appearance.Options.UseFont = true;
-            this.btnSmartCardReader.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("simpleButton1.ImageOptions.SvgImage")));
+            this.btnSmartCardReader.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("btnSmartCardReader.ImageOptions.SvgImage")));
             this.btnSmartCardReader.Location = new System.Drawing.Point(29, 30);
             this.btnSmartCardReader.Name = "btnSmartCardReader";
             this.btnSmartCardReader.Size = new System.Drawing.Size(160, 55);
@@ -112,6 +112,7 @@
             this.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderEffect = DevExpress.XtraEditors.FormBorderEffect.Shadow;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.IconOptions.Icon = ((System.Drawing.Icon)(resources.GetObject("FormMainMenu.IconOptions.Icon")));
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(727, 509);
             this.Name = "FormMainMenu";

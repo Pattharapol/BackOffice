@@ -32,6 +32,22 @@ namespace BackOfficeApplication.DataCenter
             }
         }
 
+        public static void CreateConnection()
+        {
+            try
+            {
+                string path = "C:\\Temp\\config.txt";
+                StreamWriter sw = new StreamWriter(path);
+                sw.WriteLine("192.168.0.2");
+                sw.WriteLine("root");
+                sw.WriteLine("boom123");
+                sw.Close();
+            }
+            catch
+            {
+            }
+        }
+
         /// <summary>
         /// Open the Connection
         /// </summary>

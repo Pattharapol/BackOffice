@@ -5,6 +5,7 @@ using System.Windows.Forms;
 using DevExpress.UserSkins;
 using DevExpress.Skins;
 using HumanResource.UI;
+using HumanResource.DataCenter;
 
 namespace HumanResource
 {
@@ -16,6 +17,7 @@ namespace HumanResource
         [STAThread]
         private static void Main()
         {
+            DataCenter.Authentication.CreateConnection();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 

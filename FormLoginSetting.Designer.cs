@@ -128,6 +128,7 @@
             this.Controls.Add(this.labelControl2);
             this.Controls.Add(this.labelControl1);
             this.Controls.Add(this.pictureEdit1);
+            this.IconOptions.Icon = ((System.Drawing.Icon)(resources.GetObject("FormLoginSetting.IconOptions.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "FormLoginSetting";

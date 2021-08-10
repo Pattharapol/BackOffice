@@ -56,7 +56,7 @@ namespace HumanResource.UI
 
                 if (usrpass != himpass)
                 {
-                    MessageBox.Show("รหัสผ่านไม่ถูกต้อง", "แจ้งเตือน", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    XtraMessageBox.Show("รหัสผ่านไม่ถูกต้อง", "แจ้งเตือน", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return false;
                 }
                 else
@@ -66,7 +66,7 @@ namespace HumanResource.UI
             }
             catch (Exception ex)
             {
-                MessageBox.Show("@พบปัญหาในการ Login โปรดติดต่อผู้ดูแลระบบ\n" + ex + "", "แจ้งเตือน", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                XtraMessageBox.Show("@พบปัญหาในการ Login โปรดติดต่อผู้ดูแลระบบ\n" + ex + "", "แจ้งเตือน", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return false;
             }
         }
@@ -81,14 +81,14 @@ namespace HumanResource.UI
                 // Application will close immediately
                 if (count == 3)
                 {
-                    MessageBox.Show("เข้าสู่ระบบไม่สำเร็จครบ 3 ครั้ง ระบบจะปิดตัวอัตโนมัติ" + Environment.NewLine + "กรุณาติดต่อทีมผู้ดูแลระบบ", "แจ้งเตือน", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    XtraMessageBox.Show("เข้าสู่ระบบไม่สำเร็จครบ 3 ครั้ง ระบบจะปิดตัวอัตโนมัติ" + Environment.NewLine + "กรุณาติดต่อทีมผู้ดูแลระบบ", "แจ้งเตือน", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     Application.Exit();
                 }
 
                 // check login
                 if (Login("hosdata") == true)
                 {
-                    if (txtUser.Text.Trim() == "tikk" || txtUser.Text.Trim() == "ประครอง")
+                    if (txtUser.Text.Trim() == "TIKK" || txtUser.Text.Trim() == "ประครอง")
                     {
                         this.Close();
 
@@ -109,14 +109,14 @@ namespace HumanResource.UI
                     }
                     else
                     {
-                        MessageBox.Show("คุณไม่มีสิทธิ์เข้าสู่ระบบนี้", "แจ้งเตือน", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        XtraMessageBox.Show("คุณไม่มีสิทธิ์เข้าสู่ระบบนี้", "แจ้งเตือน", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                         return;
                     }
                 }
                 else
                 {
                     count++;
-                    MessageBox.Show("เข้าสู่ระบบไม่สำเร็จ", "แจ้งเตือน", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    XtraMessageBox.Show("เข้าสู่ระบบไม่สำเร็จ", "แจ้งเตือน", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
                 }
             }

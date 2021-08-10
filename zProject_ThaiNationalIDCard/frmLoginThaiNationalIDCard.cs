@@ -58,7 +58,7 @@ namespace HumanResource.zProject_ThaiNationalIDCard
 
                 if (usrpass != himpass)
                 {
-                    MessageBox.Show("รหัสผ่านไม่ถูกต้อง", "แจ้งเตือน", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    XtraMessageBox.Show("รหัสผ่านไม่ถูกต้อง", "แจ้งเตือน", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return false;
                 }
                 else
@@ -68,7 +68,7 @@ namespace HumanResource.zProject_ThaiNationalIDCard
             }
             catch (Exception ex)
             {
-                MessageBox.Show("@พบปัญหาในการ Login โปรดติดต่อผู้ดูแลระบบ\n" + ex + "", "แจ้งเตือน", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                XtraMessageBox.Show("@พบปัญหาในการ Login โปรดติดต่อผู้ดูแลระบบ\n" + ex + "", "แจ้งเตือน", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return false;
             }
         }
@@ -90,7 +90,7 @@ namespace HumanResource.zProject_ThaiNationalIDCard
                 // check login
                 if (Login("hosdata") == true)
                 {
-                    if (txtUser.Text.Trim() == "TIKK" || txtUser.Text == "YUY" || txtUser.Text == "613051027")
+                    if (txtUser.Text.Trim() == "TIKK" || txtUser.Text == "YUY" || txtUser.Text == "613051027" || txtUser.Text == "CHETSADA" || txtUser.Text == "CHANACHAI")
                     {
                         this.Close();
 

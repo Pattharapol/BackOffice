@@ -423,4 +423,4 @@ E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\Th
 E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ThaiNationalIDCard.Example.exe.config
 E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.exe.config
 E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.zProject_ThaiNationalIDCard.frmLoginThaiNationalIDCard.resources
-E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.csprojAssemblyReference.cache
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.csproj.AssemblyReference.cache
