@@ -2,6 +2,7 @@
 using HumanResource.UI;
 using HumanResource.zProject_CentralShareFolder;
 using HumanResource.zProject_Covid19Vaccine;
+using HumanResource.zProject_DrugManagement.ui;
 using HumanResource.zProject_ThaiNationalIDCard.UI;
 
 //using ThaiNationalIDCard.Example;
@@ -51,5 +52,10 @@ namespace HumanResource
             f.ShowDialog();
         }
 
+        private void btnDrugManagement_Click(object sender, EventArgs e)
+        {
+            FormDrugLogin formDrugLogin = new FormDrugLogin();
+            formDrugLogin.ShowDialog();
+        }
     }
 }

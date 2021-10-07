@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanResource", "HumanResource.csproj", "{2911135A-62F7-4D1B-8145-5EC45BFF1FF6}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BackOfficeSetup", "..\BackOfficeSetup\BackOfficeSetup.vdproj", "{EA817185-B2A0-438C-AA47-1DC59D59012B}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BackOfficeApplicationSetup", "..\BackOfficeApplicationSetup\BackOfficeApplicationSetup.vdproj", "{3696573E-B4EA-4ECF-BB1D-7A4CF45677A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,13 +32,13 @@ Global
 		{2911135A-62F7-4D1B-8145-5EC45BFF1FF6}.release-46|Any CPU.Build.0 = Release|Any CPU
 		{2911135A-62F7-4D1B-8145-5EC45BFF1FF6}.release-461|Any CPU.ActiveCfg = Release|Any CPU
 		{2911135A-62F7-4D1B-8145-5EC45BFF1FF6}.release-461|Any CPU.Build.0 = Release|Any CPU
-		{EA817185-B2A0-438C-AA47-1DC59D59012B}.Debug|Any CPU.ActiveCfg = Debug
-		{EA817185-B2A0-438C-AA47-1DC59D59012B}.Release|Any CPU.ActiveCfg = Release
-		{EA817185-B2A0-438C-AA47-1DC59D59012B}.release-40|Any CPU.ActiveCfg = Release
-		{EA817185-B2A0-438C-AA47-1DC59D59012B}.release-45|Any CPU.ActiveCfg = Release
-		{EA817185-B2A0-438C-AA47-1DC59D59012B}.release-452|Any CPU.ActiveCfg = Release
-		{EA817185-B2A0-438C-AA47-1DC59D59012B}.release-46|Any CPU.ActiveCfg = Release
-		{EA817185-B2A0-438C-AA47-1DC59D59012B}.release-461|Any CPU.ActiveCfg = Release
+		{3696573E-B4EA-4ECF-BB1D-7A4CF45677A2}.Debug|Any CPU.ActiveCfg = Debug
+		{3696573E-B4EA-4ECF-BB1D-7A4CF45677A2}.Release|Any CPU.ActiveCfg = Release
+		{3696573E-B4EA-4ECF-BB1D-7A4CF45677A2}.release-40|Any CPU.ActiveCfg = Release
+		{3696573E-B4EA-4ECF-BB1D-7A4CF45677A2}.release-45|Any CPU.ActiveCfg = Release
+		{3696573E-B4EA-4ECF-BB1D-7A4CF45677A2}.release-452|Any CPU.ActiveCfg = Release
+		{3696573E-B4EA-4ECF-BB1D-7A4CF45677A2}.release-46|Any CPU.ActiveCfg = Release
+		{3696573E-B4EA-4ECF-BB1D-7A4CF45677A2}.release-461|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

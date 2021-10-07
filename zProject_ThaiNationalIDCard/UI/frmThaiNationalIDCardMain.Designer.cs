@@ -223,7 +223,7 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             this.btnTestPrint.TabIndex = 129;
             this.btnTestPrint.Text = "Test Print";
             this.btnTestPrint.UseVisualStyleBackColor = true;
-            this.btnTestPrint.Visible = false;
+            this.btnTestPrint.Click += new System.EventHandler(this.btnTestPrint_Click);
             // 
             // txtPrintNumber
             // 

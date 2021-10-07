@@ -9,6 +9,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace BackOfficeApplication.DataCenter
 {
@@ -35,18 +36,6 @@ namespace BackOfficeApplication.DataCenter
 
         public static void CreateConnection()
         {
-            //try
-            //{
-            //    string path = "C:\\Temp\\config.txt";
-            //    StreamWriter sw = new StreamWriter(path);
-            //    sw.WriteLine("192.168.0.2");
-            //    sw.WriteLine("root");
-            //    sw.WriteLine("boom123");
-            //    sw.Close();
-            //}
-            //catch
-            //{
-            //}
         }
 
         /// <summary>
@@ -57,6 +46,7 @@ namespace BackOfficeApplication.DataCenter
         {
             try
             {
+                GetConnectionString();
                 if (con == null)
                 {
                     con = new MySqlConnection($"Persist Security Info=False;server={model.Server};userid={model.Userid};password={model.Password};pooling=false; charset=tis620;Allow User Variables=true;default command timeout=820;Max Pool Size=200;Allow User Variables=true;Allow Zero Datetime=true;");
@@ -191,6 +181,16 @@ namespace BackOfficeApplication.DataCenter
             byte[] resultArray = objCrytpoTransform.TransformFinalBlock(toEncryptedArray, 0, toEncryptedArray.Length);
             objTripleDESCryptoService.Clear();
             return Convert.ToBase64String(resultArray, 0, resultArray.Length);
+        }
+
+        public static DataTable ComboboxHelper(ComboBox cmb, string myColumn, string myChoice, string sql)
+        {
+            DataTable dt = new DataTable();
+            dt.Columns.Add(myColumn);
+            dt.Rows.Add(myChoice);
+            MySqlDataAdapter adapter = new MySqlDataAdapter(sql, ConnOpen());
+            adapter.Fill(dt);
+            return dt;
         }
     }
 }

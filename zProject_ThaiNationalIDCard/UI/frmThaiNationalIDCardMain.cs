@@ -1205,5 +1205,40 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             frmVaccineTransferData f = new frmVaccineTransferData();
             f.ShowDialog();
         }
+
+        private void btnTestPrint_Click(object sender, EventArgs e)
+        {
+            string file = @"C:\Temp\config.txt";
+            string[] strCon = File.ReadAllLines(file);
+            model.Server = strCon[0];
+            model.Userid = strCon[1];
+            model.Password = strCon[2];
+            con = new MySqlConnection($"Persist Security Info=False;server={model.Server};userid={model.Userid};password={model.Password};pooling=false; charset=tis620;Allow User Variables=true;default command timeout=820;Max Pool Size=200;Allow User Variables=true;Allow Zero Datetime=true;");
+            //if (pbPictureFromDatabase.Image == null && pbPictureFromIDCard.Image == null)
+            //{
+            //    return;
+            //}
+            //if (txtHN.Text == "")
+            //{
+            //    return;
+            //}
+
+            // regdate
+            //string regdate = Convert.ToString(Convert.ToInt32(DateTime.Now.ToString("yyyy-MM-dd").Substring(0, 4)) - 543) + DateTime.Now.ToString("yyyy-MM-dd").Substring(4);
+            int printNumber = Convert.ToInt32(txtPrintNumber.Text);
+            //string sql = string.Format(@"SELECT pt.pt.hn, concat(pt.pt.pttitle, pt.pt.ptfname, ' ', pt.pt.ptlname) as name, replace(pt.pt.cardid, '-', '') as cardid, opd.oqueue.queue FROM pt.pt INNER JOIN opd.oqueue ON pt.pt.hn = opd.oqueue.hn WHERE pt.pt.hn = '{0}' AND opd.oqueue.regdate = '{1}' ORDER BY opd.oqueue.queue DESC LIMIT 1", txtHN.Text, regdate);
+            //DataSet ds = new DataSet();
+            //da = new MySqlDataAdapter(sql, con);
+            //da.Fill(ds, ds.Tables[0].TableName);
+            XtraReport2 x = new XtraReport2();
+            //x.DataSource = ds;
+            // ไม่ให้โชว์ คำว่า ( รับใหม่ )
+            x.FindControl("xrNewCase", true).ForeColor = Color.White;
+            x.PrinterName = cboPrinter.Text;
+            for (int i = 1; i <= printNumber; i++)
+            {
+                x.Print();
+            }
+        }
     }
 }

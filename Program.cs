@@ -6,6 +6,7 @@ using DevExpress.UserSkins;
 using DevExpress.Skins;
 using HumanResource.UI;
 using HumanResource.DataCenter;
+using HumanResource.zProject_DrugManagement.ui;
 
 namespace HumanResource
 {
@@ -24,6 +25,13 @@ namespace HumanResource
 
             BonusSkins.Register();
             Application.Run(new FormMainMenu());
+            //try
+            //{
+            //    Application.Run(new FormDrugMain());
+            //}
+            //catch
+            //{
+            //}
         }
     }
 }
