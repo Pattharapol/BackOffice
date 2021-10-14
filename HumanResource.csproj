@@ -1,0 +1,582 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2911135A-62F7-4D1B-8145-5EC45BFF1FF6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HumanResource</RootNamespace>
+    <AssemblyName>HumanResource</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>backoffice_aMq_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BarcodeStandard, Version=2.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\BarcodeLib.2.4.0\lib\netstandard2.0\BarcodeStandard.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.BonusSkins.v21.1" />
+    <Reference Include="DevExpress.Charts.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v21.1" />
+    <Reference Include="DevExpress.Office.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v21.1.Core" />
+    <Reference Include="DevExpress.RichEdit.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.Desktop.v21.1" />
+    <Reference Include="DevExpress.RichEdit.v21.1.Export, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v21.1" />
+    <Reference Include="DevExpress.Utils.v21.1.UI, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v21.1" />
+    <Reference Include="DevExpress.Sparkline.v21.1.Core" />
+    <Reference Include="DevExpress.XtraCharts.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v21.1" />
+    <Reference Include="DevExpress.XtraGauges.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v21.1.Extensions, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.12.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.6.9.12\lib\net45\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="pcsc-sharp">
+      <HintPath>packages\PCSC.3.7.0\lib\net40\pcsc-sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Common, Version=4.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Drawing.Common.5.0.2\lib\net461\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Text.Encodings.Web.5.0.1\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=5.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Text.Json.5.0.2\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.WinControls, Version=2021.2.511.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+    <Reference Include="Telerik.WinControls.UI, Version=2021.2.511.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="TelerikCommon, Version=2021.2.511.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+    <Reference Include="ThaiNationalIDCard">
+      <HintPath>..\..\ThaiNationalIDCard\ThaiNationalIDCard-master\packages\ThaiNationalIDCard.2.0.0\lib\net40\ThaiNationalIDCard.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataCenter\Authentication.cs" />
+    <Compile Include="DataCenter\CommonCode.cs" />
+    <Compile Include="DataCenter\DataAccess.cs" />
+    <Compile Include="DataCenter\LocalDataAccess.cs" />
+    <Compile Include="DataCenter\MSAccessDataAccess.cs" />
+    <Compile Include="FormMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMainMenu.Designer.cs">
+      <DependentUpon>FormMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSetting.Designer.cs">
+      <DependentUpon>FormSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLoginSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLoginSetting.Designer.cs">
+      <DependentUpon>FormLoginSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\ConnectionStringModel.cs" />
+    <Compile Include="Model\Person.cs" />
+    <Compile Include="Report\dsOffDuty.cs">
+      <DependentUpon>dsOffDuty.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\dsOffDuty.Designer.cs" />
+    <Compile Include="Report\dsOffDuty1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsOffDuty.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\dsServiceWorker.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsServiceWorker.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptOffDuty.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptOffDuty.Designer.cs">
+      <DependentUpon>rptOffDuty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptServiceWorker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptServiceWorker.Designer.cs">
+      <DependentUpon>rptServiceWorker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormBackOfficeWorkerReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormBackOfficeWorkerReport.Designer.cs">
+      <DependentUpon>FormBackOfficeWorkerReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormLoginHumanResource.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormLoginHumanResource.Designer.cs">
+      <DependentUpon>FormLoginHumanResource.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\FormOffDuty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormOffDuty.Designer.cs">
+      <DependentUpon>FormOffDuty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormOffDutyReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormOffDutyReport.Designer.cs">
+      <DependentUpon>FormOffDutyReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormProgressIndicator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormProgressIndicator.Designer.cs">
+      <DependentUpon>FormProgressIndicator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormSearchOfficer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormSearchOfficer.Designer.cs">
+      <DependentUpon>FormSearchOfficer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormServiceWorkerReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormServiceWorkerReport.Designer.cs">
+      <DependentUpon>FormServiceWorkerReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormSupervisorReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormSupervisorReport.Designer.cs">
+      <DependentUpon>FormSupervisorReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormTypeOfOffDuty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormTypeOfOffDuty.Designer.cs">
+      <DependentUpon>FormTypeOfOffDuty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormUpdateData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormUpdateData.Designer.cs">
+      <DependentUpon>FormUpdateData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_CentralShareFolder\FormAccessFolder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zProject_CentralShareFolder\FormAccessFolder.Designer.cs">
+      <DependentUpon>FormAccessFolder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_CentralShareFolder\FormCentralFolder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zProject_CentralShareFolder\FormCentralFolder.Designer.cs">
+      <DependentUpon>FormCentralFolder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_CentralShareFolder\FormChangeFolderPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zProject_CentralShareFolder\FormChangeFolderPassword.Designer.cs">
+      <DependentUpon>FormChangeFolderPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_CentralShareFolder\FormLoginCentralFolder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zProject_CentralShareFolder\FormLoginCentralFolder.Designer.cs">
+      <DependentUpon>FormLoginCentralFolder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_Covid19Vaccine\FormCovid19VaccineMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zProject_Covid19Vaccine\FormCovid19VaccineMain.Designer.cs">
+      <DependentUpon>FormCovid19VaccineMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_Covid19Vaccine\FormLoginCovid19Vaccine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zProject_Covid19Vaccine\FormLoginCovid19Vaccine.Designer.cs">
+      <DependentUpon>FormLoginCovid19Vaccine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_Covid19Vaccine\Report\dsSerialBarcode.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsSerialBarcode.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_Covid19Vaccine\Report\rptSerialBarcode.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="zProject_Covid19Vaccine\Report\rptSerialBarcode.Designer.cs">
+      <DependentUpon>rptSerialBarcode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_DrugManagement\ui\FormDrugLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zProject_DrugManagement\ui\FormDrugLogin.Designer.cs">
+      <DependentUpon>FormDrugLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_DrugManagement\ui\FormDrugMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zProject_DrugManagement\ui\FormDrugMain.Designer.cs">
+      <DependentUpon>FormDrugMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_DrugManagement\ui\frmCooperateCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zProject_DrugManagement\ui\frmCooperateCheck.Designer.cs">
+      <DependentUpon>frmCooperateCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_DrugManagement\ui\frmReceiveProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zProject_DrugManagement\ui\frmReceiveProducts.Designer.cs">
+      <DependentUpon>frmReceiveProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_DrugManagement\ui\frmSearchDrug.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zProject_DrugManagement\ui\frmSearchDrug.Designer.cs">
+      <DependentUpon>frmSearchDrug.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_DrugManagement\ui\frmSearchVendor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zProject_DrugManagement\ui\frmSearchVendor.Designer.cs">
+      <DependentUpon>frmSearchVendor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_DrugManagement\ui\WaitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zProject_DrugManagement\ui\WaitForm.Designer.cs">
+      <DependentUpon>WaitForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_ThaiNationalIDCard\model_thai_id\APDU_THAILAND_IDCARD.cs" />
+    <Compile Include="zProject_ThaiNationalIDCard\model_thai_id\APDU_THAILAND_IDCARD_TYPE_01.cs" />
+    <Compile Include="zProject_ThaiNationalIDCard\model_thai_id\APDU_THAILAND_IDCARD_TYPE_02.cs" />
+    <Compile Include="zProject_ThaiNationalIDCard\model_thai_id\IAPDU_THAILAND_IDCARD.cs" />
+    <Compile Include="zProject_ThaiNationalIDCard\model_thai_id\Personal.cs" />
+    <Compile Include="zProject_ThaiNationalIDCard\model_thai_id\ThaiIDCard.cs" />
+    <Compile Include="zProject_ThaiNationalIDCard\Report\DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_ThaiNationalIDCard\Report\XtraReport2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="zProject_ThaiNationalIDCard\Report\XtraReport2.Designer.cs">
+      <DependentUpon>XtraReport2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_ThaiNationalIDCard\UI\frmLoginThaiNationalIDCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zProject_ThaiNationalIDCard\UI\frmLoginThaiNationalIDCard.Designer.cs">
+      <DependentUpon>frmLoginThaiNationalIDCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_ThaiNationalIDCard\UI\frmThaiNationalIDCardMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zProject_ThaiNationalIDCard\UI\frmThaiNationalIDCardMain.Designer.cs">
+      <DependentUpon>frmThaiNationalIDCardMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zProject_ThaiNationalIDCard\UI\frmVaccineTransferData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zProject_ThaiNationalIDCard\UI\frmVaccineTransferData.Designer.cs">
+      <DependentUpon>frmVaccineTransferData.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormMainMenu.resx">
+      <DependentUpon>FormMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSetting.resx">
+      <DependentUpon>FormSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLoginSetting.resx">
+      <DependentUpon>FormLoginSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Report\rptOffDuty.resx">
+      <DependentUpon>rptOffDuty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptServiceWorker.resx">
+      <DependentUpon>rptServiceWorker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormBackOfficeWorkerReport.resx">
+      <DependentUpon>FormBackOfficeWorkerReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormLoginHumanResource.resx">
+      <DependentUpon>FormLoginHumanResource.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UI\FormOffDuty.resx">
+      <DependentUpon>FormOffDuty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormOffDutyReport.resx">
+      <DependentUpon>FormOffDutyReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormProgressIndicator.resx">
+      <DependentUpon>FormProgressIndicator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormSearchOfficer.resx">
+      <DependentUpon>FormSearchOfficer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormServiceWorkerReport.resx">
+      <DependentUpon>FormServiceWorkerReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormSupervisorReport.resx">
+      <DependentUpon>FormSupervisorReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormTypeOfOffDuty.resx">
+      <DependentUpon>FormTypeOfOffDuty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormUpdateData.resx">
+      <DependentUpon>FormUpdateData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zProject_CentralShareFolder\FormAccessFolder.resx">
+      <DependentUpon>FormAccessFolder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zProject_CentralShareFolder\FormCentralFolder.resx">
+      <DependentUpon>FormCentralFolder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zProject_CentralShareFolder\FormChangeFolderPassword.resx">
+      <DependentUpon>FormChangeFolderPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zProject_CentralShareFolder\FormLoginCentralFolder.resx">
+      <DependentUpon>FormLoginCentralFolder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zProject_Covid19Vaccine\FormCovid19VaccineMain.resx">
+      <DependentUpon>FormCovid19VaccineMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zProject_Covid19Vaccine\FormLoginCovid19Vaccine.resx">
+      <DependentUpon>FormLoginCovid19Vaccine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zProject_Covid19Vaccine\Report\rptSerialBarcode.resx">
+      <DependentUpon>rptSerialBarcode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zProject_DrugManagement\ui\FormDrugLogin.resx">
+      <DependentUpon>FormDrugLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zProject_DrugManagement\ui\FormDrugMain.resx">
+      <DependentUpon>FormDrugMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zProject_DrugManagement\ui\frmCooperateCheck.resx">
+      <DependentUpon>frmCooperateCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zProject_DrugManagement\ui\frmReceiveProducts.resx">
+      <DependentUpon>frmReceiveProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zProject_DrugManagement\ui\frmSearchDrug.resx">
+      <DependentUpon>frmSearchDrug.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zProject_DrugManagement\ui\frmSearchVendor.resx">
+      <DependentUpon>frmSearchVendor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zProject_DrugManagement\ui\WaitForm.resx">
+      <DependentUpon>WaitForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zProject_ThaiNationalIDCard\Report\XtraReport2.resx">
+      <DependentUpon>XtraReport2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zProject_ThaiNationalIDCard\UI\frmLoginThaiNationalIDCard.resx">
+      <DependentUpon>frmLoginThaiNationalIDCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zProject_ThaiNationalIDCard\UI\frmThaiNationalIDCardMain.resx">
+      <DependentUpon>frmThaiNationalIDCardMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zProject_ThaiNationalIDCard\UI\frmVaccineTransferData.resx">
+      <DependentUpon>frmVaccineTransferData.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Report\dsOffDuty.xsc">
+      <DependentUpon>dsOffDuty.xsd</DependentUpon>
+    </None>
+    <None Include="Report\dsOffDuty.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsOffDuty1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Report\dsOffDuty.xss">
+      <DependentUpon>dsOffDuty.xsd</DependentUpon>
+    </None>
+    <None Include="Report\dsServiceWorker.xsc">
+      <DependentUpon>dsServiceWorker.xsd</DependentUpon>
+    </None>
+    <None Include="Report\dsServiceWorker.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsServiceWorker.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Report\dsServiceWorker.xss">
+      <DependentUpon>dsServiceWorker.xsd</DependentUpon>
+    </None>
+    <None Include="zProject_Covid19Vaccine\Report\dsSerialBarcode.xsc">
+      <DependentUpon>dsSerialBarcode.xsd</DependentUpon>
+    </None>
+    <None Include="zProject_Covid19Vaccine\Report\dsSerialBarcode.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsSerialBarcode.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="zProject_Covid19Vaccine\Report\dsSerialBarcode.xss">
+      <DependentUpon>dsSerialBarcode.xsd</DependentUpon>
+    </None>
+    <None Include="zProject_ThaiNationalIDCard\Report\DataSet.xsc">
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="zProject_ThaiNationalIDCard\Report\DataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="zProject_ThaiNationalIDCard\Report\DataSet.xss">
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="backoffice_aMq_icon.ico" />
+    <Content Include="backoffice_ksF_icon.ico" />
+    <Content Include="Image\microsoft-access %281%29.png" />
+    <Content Include="Image\microsoft-access %282%29.png" />
+    <Content Include="Image\microsoft-access.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="zProject_DrugManagement\model\" />
+    <Folder Include="zProject_DrugManagement\report\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

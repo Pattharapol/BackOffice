@@ -1,0 +1,1619 @@
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\HumanResource.exe
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\HumanResource.pdb
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Data.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Utils.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraBars.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Data.v18.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Utils.v18.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraBars.v18.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\obj\Debug\HumanResource.Properties.Resources.resources
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\obj\Debug\HumanResource.csproj.GenerateResource.cache
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\obj\Debug\HumanResource.exe.licenses
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\obj\Debug\HumanResource.csproj.CoreCompileInputs.cache
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\obj\Debug\HumanResource.csproj.CopyComplete
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\obj\Debug\HumanResource.exe
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\obj\Debug\HumanResource.pdb
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\obj\Debug\HumanResource.FormMain.resources
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\HumanResource.exe.config
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\obj\Debug\HumanResource.UI.FormOffDuty.resources
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\obj\Debug\HumanResource.UI.FormUpdateData.resources
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\MySql.Data.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Office.v18.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Images.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Office.v18.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\obj\Debug\HumanResource.UI.FormProgressIndicator.resources
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\Telerik.WinControls.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\Telerik.WinControls.UI.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\TelerikCommon.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\Telerik.WinControls.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\Telerik.WinControls.UI.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\obj\Debug\HumanResource.UI.FormSearchOfficer.resources
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\obj\Debug\HumanResource.UI.FormOffDutyReport.resources
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Utils.v18.1.UI.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraCharts.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraReports.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraRichEdit.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.DataAccess.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Xpo.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.DataAccess.v18.1.UI.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraCharts.v18.1.Extensions.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraPivotGrid.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.CodeParser.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Diagram.v18.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraDiagram.v18.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Utils.v18.1.UI.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraCharts.v18.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraReports.v18.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraRichEdit.v18.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.DataAccess.v18.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Xpo.v18.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.DataAccess.v18.1.UI.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraPivotGrid.v18.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.Diagram.v18.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\DevExpress.XtraDiagram.v18.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.DataAccess.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.DataAccess.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.DataAccess.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.DataAccess.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.DataAccess.v18.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.DataAccess.v18.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.DataAccess.v18.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.DataAccess.v18.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.XtraPivotGrid.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.XtraPivotGrid.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\de\DevExpress.Diagram.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\es\DevExpress.Diagram.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ja\DevExpress.Diagram.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\bin\Debug\ru\DevExpress.Diagram.v18.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\obj\Debug\HumanResource.Report.rptOffDuty.resources
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\obj\Debug\HumanResource.UI.FormTypeOfOffDuty.resources
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\obj\Debug\HumanResource.UI.FormServiceWorkerReport.resources
+E:\#1 CodingArea\#1 MyProjects\DX_C#_HumanResource\HumanResource\HumanResource\obj\Debug\HumanResource.Report.rptServiceWorker.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\HumanResource.exe.config
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\HumanResource.exe
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\HumanResource.pdb
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.BonusSkins.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Data.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Office.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Utils.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Utils.v21.1.UI.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraBars.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraReports.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraReports.v21.1.Extensions.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraRichEdit.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Xpo.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.CodeParser.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.UI.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraNavBar.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraPivotGrid.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.Extensions.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Images.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraDiagram.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Diagram.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Data.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Office.v21.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Utils.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Utils.v21.1.UI.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraBars.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraReports.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraReports.v21.1.Extensions.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraRichEdit.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Xpo.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.UI.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraNavBar.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraPivotGrid.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.XtraDiagram.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\DevExpress.Diagram.v21.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.Utils.v21.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.Utils.v21.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.Utils.v21.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.Utils.v21.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\de\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\es\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ja\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ru\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.FormMainMenu.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.FormSetting.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.FormLoginSetting.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.Report.rptOffDuty.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.Report.rptServiceWorker.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.UI.FormBackOfficeWorkerReport.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.UI.FormLoginHumanResource.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.FormMain.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.Properties.Resources.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.UI.FormOffDuty.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.UI.FormOffDutyReport.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.UI.FormProgressIndicator.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.UI.FormSearchOfficer.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.UI.FormServiceWorkerReport.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.UI.FormSupervisorReport.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.UI.FormTypeOfOffDuty.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.UI.FormUpdateData.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormAccessFolder.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormCentralFolder.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormChangeFolderPassword.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormLoginCentralFolder.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormPathFolder.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.csproj.GenerateResource.cache
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.exe.licenses
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.csproj.CoreCompileInputs.cache
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.csproj.CopyComplete
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.exe
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.pdb
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ThaiNationalIDCard.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\PCSC.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\PCSC.Iso7816.dll
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ThaiNationalIDCard.pdb
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\PCSC.pdb
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\PCSC.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\PCSC.Iso7816.pdb
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\PCSC.Iso7816.xml
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ThaiNationalIDCard.Example.exe
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ThaiNationalIDCard.Example.pdb
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\bin\Debug\ThaiNationalIDCard.Example.exe.config
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.exe.config
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.zProject_ThaiNationalIDCard.frmLoginThaiNationalIDCard.resources
+E:\#1 CodingArea\#1 MyProjects\DX_human_resource-main\HumanResource\obj\Debug\HumanResource.csproj.AssemblyReference.cache
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\HumanResource.exe.config
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\HumanResource.exe
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\HumanResource.pdb
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.BonusSkins.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Data.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Office.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Utils.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Utils.v21.1.UI.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraBars.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraReports.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraReports.v21.1.Extensions.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ThaiNationalIDCard.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ThaiNationalIDCard.Example.exe
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\PCSC.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\PCSC.Iso7816.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraRichEdit.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Xpo.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.CodeParser.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.UI.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraNavBar.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraPivotGrid.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.Extensions.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Images.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraDiagram.v21.1.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Diagram.v21.1.Core.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ThaiNationalIDCard.Example.pdb
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ThaiNationalIDCard.Example.exe.config
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ThaiNationalIDCard.pdb
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Data.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Office.v21.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Utils.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Utils.v21.1.UI.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraBars.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraReports.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraReports.v21.1.Extensions.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\PCSC.pdb
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\PCSC.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\PCSC.Iso7816.pdb
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\PCSC.Iso7816.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraRichEdit.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Xpo.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.UI.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraNavBar.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraPivotGrid.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraDiagram.v21.1.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Diagram.v21.1.Core.xml
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Utils.v21.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Utils.v21.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Utils.v21.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Utils.v21.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.exe.config
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.FormMainMenu.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.FormSetting.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.FormLoginSetting.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.Report.rptOffDuty.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.Report.rptServiceWorker.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormBackOfficeWorkerReport.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormLoginHumanResource.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.FormMain.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.Properties.Resources.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormOffDuty.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormOffDutyReport.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormProgressIndicator.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormSearchOfficer.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormServiceWorkerReport.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormSupervisorReport.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormTypeOfOffDuty.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormUpdateData.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormAccessFolder.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormCentralFolder.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormChangeFolderPassword.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormLoginCentralFolder.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormPathFolder.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_ThaiNationalIDCard.frmLoginThaiNationalIDCard.resources
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.csproj.GenerateResource.cache
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.exe.licenses
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.csproj.CoreCompileInputs.cache
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.csproj.CopyComplete
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.exe
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.pdb
+E:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.csproj.AssemblyReference.cache
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\HumanResource.exe.config
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\HumanResource.exe
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\HumanResource.pdb
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\BarcodeStandard.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.BonusSkins.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Data.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Office.v21.1.Core.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Utils.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Utils.v21.1.UI.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraBars.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraReports.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraReports.v21.1.Extensions.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Buffers.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Drawing.Common.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Memory.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Numerics.Vectors.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Text.Encodings.Web.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Text.Json.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.ValueTuple.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ThaiNationalIDCard.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ThaiNationalIDCard.Example.exe
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\PCSC.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\PCSC.Iso7816.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraRichEdit.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Xpo.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.CodeParser.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.UI.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraNavBar.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraPivotGrid.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.Extensions.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Images.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraDiagram.v21.1.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Diagram.v21.1.Core.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ThaiNationalIDCard.Example.pdb
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ThaiNationalIDCard.Example.exe.config
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ThaiNationalIDCard.pdb
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Data.v21.1.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Office.v21.1.Core.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Utils.v21.1.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Utils.v21.1.UI.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraBars.v21.1.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraReports.v21.1.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraReports.v21.1.Extensions.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Buffers.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Memory.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Numerics.Vectors.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Text.Encodings.Web.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Text.Json.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.ValueTuple.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\PCSC.pdb
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\PCSC.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\PCSC.Iso7816.pdb
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\PCSC.Iso7816.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraRichEdit.v21.1.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Xpo.v21.1.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.UI.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraNavBar.v21.1.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraPivotGrid.v21.1.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraDiagram.v21.1.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Diagram.v21.1.Core.xml
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Utils.v21.1.UI.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Utils.v21.1.UI.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Utils.v21.1.UI.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Utils.v21.1.UI.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraRichEdit.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraRichEdit.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraRichEdit.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraRichEdit.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.DataAccess.v21.1.UI.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.DataAccess.v21.1.UI.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.DataAccess.v21.1.UI.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.DataAccess.v21.1.UI.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraPivotGrid.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraPivotGrid.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.1.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Diagram.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Diagram.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Diagram.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Diagram.v21.1.Core.resources.dll
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.csproj.AssemblyReference.cache
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.exe.config
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.FormMainMenu.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.FormSetting.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.FormLoginSetting.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.Report.rptOffDuty.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.Report.rptServiceWorker.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormBackOfficeWorkerReport.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormLoginHumanResource.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.FormMain.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.Properties.Resources.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormOffDuty.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormOffDutyReport.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormProgressIndicator.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormSearchOfficer.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormServiceWorkerReport.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormSupervisorReport.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormTypeOfOffDuty.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormUpdateData.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormAccessFolder.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormCentralFolder.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormChangeFolderPassword.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormLoginCentralFolder.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormPathFolder.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_Covid19Vaccine.btnConvert.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_Covid19Vaccine.FormLoginCovid19Vaccine.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_ThaiNationalIDCard.frmLoginThaiNationalIDCard.resources
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.csproj.GenerateResource.cache
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.exe.licenses
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.csproj.CoreCompileInputs.cache
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.csproj.CopyComplete
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.exe
+F:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.pdb
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\HumanResource.exe.config
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\HumanResource.exe
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\HumanResource.pdb
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\BarcodeStandard.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\pcsc-sharp.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Buffers.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Drawing.Common.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Memory.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Numerics.Vectors.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Text.Encodings.Web.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Text.Json.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\System.ValueTuple.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraRichEdit.v21.1.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Xpo.v21.1.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.CodeParser.v21.1.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.UI.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraNavBar.v21.1.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraPivotGrid.v21.1.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.Extensions.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Images.v21.1.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraDiagram.v21.1.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Diagram.v21.1.Core.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Data.v21.1.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Office.v21.1.Core.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Utils.v21.1.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Utils.v21.1.UI.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraBars.v21.1.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraReports.v21.1.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraReports.v21.1.Extensions.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\pcsc-sharp.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\pcsc-sharp.dll.config
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Buffers.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Memory.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Numerics.Vectors.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Text.Encodings.Web.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Text.Json.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\System.ValueTuple.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraRichEdit.v21.1.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Xpo.v21.1.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.UI.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraNavBar.v21.1.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraPivotGrid.v21.1.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraDiagram.v21.1.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Diagram.v21.1.Core.xml
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Utils.v21.1.UI.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Utils.v21.1.UI.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Utils.v21.1.UI.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Utils.v21.1.UI.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.csproj.AssemblyReference.cache
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.FormMainMenu.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.FormSetting.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.FormLoginSetting.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.Report.rptOffDuty.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.Report.rptServiceWorker.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormBackOfficeWorkerReport.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormLoginHumanResource.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.FormMain.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.Properties.Resources.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormOffDuty.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormOffDutyReport.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormProgressIndicator.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormSearchOfficer.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormServiceWorkerReport.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormSupervisorReport.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormTypeOfOffDuty.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormUpdateData.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormAccessFolder.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormCentralFolder.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormChangeFolderPassword.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormLoginCentralFolder.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormPathFolder.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_Covid19Vaccine.btnConvert.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_Covid19Vaccine.FormLoginCovid19Vaccine.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_Covid19Vaccine.Report.rptSerialBarcode.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_ThaiNationalIDCard.Report.XtraReport2.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_ThaiNationalIDCard.UI.frmLoginThaiNationalIDCard.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_ThaiNationalIDCard.UI.frmThaiNationalIDCardMain.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_ThaiNationalIDCard.UI.frmVaccineTransferData.resources
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.csproj.GenerateResource.cache
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.exe.licenses
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.csproj.CoreCompileInputs.cache
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.csproj.CopyComplete
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.exe
+E:\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.pdb
+E:\DX_BackOfficeApplication\HumanResource\bin\Debug\ThaiNationalIDCard.pdb
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\HumanResource.exe.config
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\HumanResource.exe
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\HumanResource.pdb
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\BarcodeStandard.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.BonusSkins.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Data.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.RichEdit.v21.1.Export.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Utils.v21.1.UI.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraReports.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraReports.v21.1.Extensions.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\pcsc-sharp.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Buffers.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Drawing.Common.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Memory.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Numerics.Vectors.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Text.Encodings.Web.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Text.Json.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.ValueTuple.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ThaiNationalIDCard.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraRichEdit.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Xpo.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.CodeParser.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.UI.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraNavBar.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraPivotGrid.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.Extensions.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Images.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraDiagram.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Diagram.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Data.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Utils.v21.1.UI.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraReports.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraReports.v21.1.Extensions.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\pcsc-sharp.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\pcsc-sharp.dll.config
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Buffers.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Memory.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Numerics.Vectors.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Text.Encodings.Web.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Text.Json.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\System.ValueTuple.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraRichEdit.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Xpo.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.DataAccess.v21.1.UI.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraNavBar.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraPivotGrid.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.XtraDiagram.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\DevExpress.Diagram.v21.1.Core.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Utils.v21.1.UI.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Utils.v21.1.UI.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Utils.v21.1.UI.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Utils.v21.1.UI.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraRichEdit.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraRichEdit.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraRichEdit.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraRichEdit.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.DataAccess.v21.1.UI.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.DataAccess.v21.1.UI.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.DataAccess.v21.1.UI.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.DataAccess.v21.1.UI.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.XtraPivotGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.XtraPivotGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\de\DevExpress.Diagram.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\es\DevExpress.Diagram.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ja\DevExpress.Diagram.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\bin\Debug\ru\DevExpress.Diagram.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.FormMainMenu.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.FormSetting.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.FormLoginSetting.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.Report.rptOffDuty.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.Report.rptServiceWorker.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormBackOfficeWorkerReport.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormLoginHumanResource.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.FormMain.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.Properties.Resources.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormOffDuty.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormOffDutyReport.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormProgressIndicator.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormSearchOfficer.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormServiceWorkerReport.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormSupervisorReport.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormTypeOfOffDuty.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.UI.FormUpdateData.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormAccessFolder.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormCentralFolder.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormChangeFolderPassword.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormLoginCentralFolder.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_CentralShareFolder.FormPathFolder.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_Covid19Vaccine.btnConvert.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_Covid19Vaccine.FormLoginCovid19Vaccine.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_Covid19Vaccine.Report.rptSerialBarcode.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_ThaiNationalIDCard.Report.XtraReport2.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_ThaiNationalIDCard.UI.frmLoginThaiNationalIDCard.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_ThaiNationalIDCard.UI.frmThaiNationalIDCardMain.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_ThaiNationalIDCard.UI.frmVaccineTransferData.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.csproj.GenerateResource.cache
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.csproj.CoreCompileInputs.cache
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.csproj.CopyComplete
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.exe
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.pdb
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_DrugManagement.ui.FormDrugLogin.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_DrugManagement.ui.WaitForm.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_DrugManagement.ui.FormDrugMain.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_DrugManagement.ui.frmReceiveProducts.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_DrugManagement.ui.frmSearchVendor.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_DrugManagement.ui.frmSearchDrug.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.zProject_DrugManagement.ui.frmCooperateCheck.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\HumanResource\obj\Debug\HumanResource.csproj.AssemblyReference.cache
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\HumanResource.exe.config
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\HumanResource.exe
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\HumanResource.pdb
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\BarcodeStandard.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.BonusSkins.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Data.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.RichEdit.v21.1.Export.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Utils.v21.1.UI.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraNavBar.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraReports.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraReports.v21.1.Extensions.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\pcsc-sharp.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\System.Buffers.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\System.Drawing.Common.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\System.Memory.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\System.Numerics.Vectors.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\System.Text.Encodings.Web.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\System.Text.Json.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\System.ValueTuple.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ThaiNationalIDCard.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraRichEdit.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.DataAccess.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Xpo.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.CodeParser.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.DataAccess.v21.1.UI.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraPivotGrid.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraCharts.v21.1.Extensions.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Images.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraDiagram.v21.1.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Diagram.v21.1.Core.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Data.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Utils.v21.1.UI.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraNavBar.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraReports.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraReports.v21.1.Extensions.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\pcsc-sharp.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\pcsc-sharp.dll.config
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\System.Buffers.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\System.Memory.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\System.Numerics.Vectors.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\System.Text.Encodings.Web.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\System.Text.Json.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\System.ValueTuple.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraRichEdit.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.DataAccess.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Xpo.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.DataAccess.v21.1.UI.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraPivotGrid.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.XtraDiagram.v21.1.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\DevExpress.Diagram.v21.1.Core.xml
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.Utils.v21.1.UI.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.Utils.v21.1.UI.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.Utils.v21.1.UI.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.Utils.v21.1.UI.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.XtraRichEdit.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.XtraRichEdit.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.XtraRichEdit.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.XtraRichEdit.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.DataAccess.v21.1.UI.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.DataAccess.v21.1.UI.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.DataAccess.v21.1.UI.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.DataAccess.v21.1.UI.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.XtraPivotGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.XtraPivotGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.1.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\de\DevExpress.Diagram.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\es\DevExpress.Diagram.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ja\DevExpress.Diagram.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\bin\Debug\ru\DevExpress.Diagram.v21.1.Core.resources.dll
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.FormMainMenu.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.FormSetting.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.FormLoginSetting.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.Report.rptOffDuty.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.Report.rptServiceWorker.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.UI.FormBackOfficeWorkerReport.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.UI.FormLoginHumanResource.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.FormMain.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.Properties.Resources.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.UI.FormOffDuty.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.UI.FormOffDutyReport.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.UI.FormProgressIndicator.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.UI.FormSearchOfficer.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.UI.FormServiceWorkerReport.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.UI.FormSupervisorReport.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.UI.FormTypeOfOffDuty.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.UI.FormUpdateData.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_CentralShareFolder.FormAccessFolder.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_CentralShareFolder.FormCentralFolder.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_CentralShareFolder.FormChangeFolderPassword.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_CentralShareFolder.FormLoginCentralFolder.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_Covid19Vaccine.btnConvert.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_Covid19Vaccine.FormLoginCovid19Vaccine.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_Covid19Vaccine.Report.rptSerialBarcode.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_DrugManagement.ui.FormDrugLogin.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_DrugManagement.ui.FormDrugMain.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_DrugManagement.ui.frmCooperateCheck.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_DrugManagement.ui.frmReceiveProducts.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_DrugManagement.ui.frmSearchDrug.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_DrugManagement.ui.frmSearchVendor.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_DrugManagement.ui.WaitForm.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_ThaiNationalIDCard.Report.XtraReport2.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_ThaiNationalIDCard.UI.frmLoginThaiNationalIDCard.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_ThaiNationalIDCard.UI.frmThaiNationalIDCardMain.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_ThaiNationalIDCard.UI.frmVaccineTransferData.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.csproj.GenerateResource.cache
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.exe.licenses
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.csproj.CoreCompileInputs.cache
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.csproj.CopyComplete
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.exe
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.pdb
