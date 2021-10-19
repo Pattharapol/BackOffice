@@ -87,6 +87,8 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             this.btnRead = new System.Windows.Forms.Button();
             this.label20 = new System.Windows.Forms.Label();
             this.btnTransferData = new DevExpress.XtraEditors.SimpleButton();
+            this.btnUpdateHN = new DevExpress.XtraEditors.SimpleButton();
+            this.label23 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pbPictureFromDatabase)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbPictureFromIDCard)).BeginInit();
             this.SuspendLayout();
@@ -105,7 +107,7 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             // 
             this.txtCID.Enabled = false;
             this.txtCID.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtCID.Location = new System.Drawing.Point(70, 415);
+            this.txtCID.Location = new System.Drawing.Point(70, 466);
             this.txtCID.Name = "txtCID";
             this.txtCID.Size = new System.Drawing.Size(169, 29);
             this.txtCID.TabIndex = 140;
@@ -197,7 +199,7 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             // 
             this.label15.AutoSize = true;
             this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
-            this.label15.Location = new System.Drawing.Point(7, 419);
+            this.label15.Location = new System.Drawing.Point(7, 470);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(57, 20);
             this.label15.TabIndex = 131;
@@ -671,11 +673,34 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             this.btnTransferData.Text = "โอนข้อมูลฉีดวัคซีน";
             this.btnTransferData.Click += new System.EventHandler(this.btnTransferData_Click);
             // 
+            // btnUpdateHN
+            // 
+            this.btnUpdateHN.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton1.ImageOptions.Image")));
+            this.btnUpdateHN.Location = new System.Drawing.Point(16, 386);
+            this.btnUpdateHN.Name = "btnUpdateHN";
+            this.btnUpdateHN.Size = new System.Drawing.Size(158, 49);
+            this.btnUpdateHN.TabIndex = 145;
+            this.btnUpdateHN.Text = "อัปเดท HN";
+            this.btnUpdateHN.Click += new System.EventHandler(this.btnUpdateHN_Click);
+            // 
+            // label23
+            // 
+            this.label23.AutoSize = true;
+            this.label23.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.label23.ForeColor = System.Drawing.Color.Red;
+            this.label23.Location = new System.Drawing.Point(13, 442);
+            this.label23.Name = "label23";
+            this.label23.Size = new System.Drawing.Size(163, 13);
+            this.label23.TabIndex = 146;
+            this.label23.Text = "**ใช้ในกรณีขึ้นบัตรใหม่แล้ว Error";
+            // 
             // frmThaiNationalIDCardMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1228, 688);
+            this.Controls.Add(this.label23);
+            this.Controls.Add(this.btnUpdateHN);
             this.Controls.Add(this.btnTransferData);
             this.Controls.Add(this.label20);
             this.Controls.Add(this.txtCID2);
@@ -801,5 +826,7 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
         private System.Windows.Forms.Button btnRead;
         private System.Windows.Forms.Label label20;
         private DevExpress.XtraEditors.SimpleButton btnTransferData;
+        private DevExpress.XtraEditors.SimpleButton btnUpdateHN;
+        private System.Windows.Forms.Label label23;
     }
 }

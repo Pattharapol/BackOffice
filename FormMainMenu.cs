@@ -57,5 +57,11 @@ namespace HumanResource
             FormDrugLogin formDrugLogin = new FormDrugLogin();
             formDrugLogin.ShowDialog();
         }
+
+        private void FormMainMenu_Load(object sender, EventArgs e)
+        {
+            webBrowser.ScriptErrorsSuppressed = true;
+            webBrowser.Navigate(@"http://203.157.197.90/webpage");
+        }
     }
 }

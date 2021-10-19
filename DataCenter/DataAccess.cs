@@ -118,10 +118,17 @@ namespace BackOfficeApplication.DataCenter
         /// <returns></returns>
         public static DataTable RetriveData(string sql)
         {
-            DataTable dt = new DataTable();
-            MySqlDataAdapter da = new MySqlDataAdapter(sql, ConnOpen());
-            da.Fill(dt);
-            return dt;
+            try
+            {
+                DataTable dt = new DataTable();
+                MySqlDataAdapter da = new MySqlDataAdapter(sql, ConnOpen());
+                da.Fill(dt);
+                return dt;
+            }
+            catch
+            {
+                return null;
+            }
         }
 
         /// <summary>
@@ -191,6 +198,15 @@ namespace BackOfficeApplication.DataCenter
             MySqlDataAdapter adapter = new MySqlDataAdapter(sql, ConnOpen());
             adapter.Fill(dt);
             return dt;
+        }
+
+        public static void UpdateHN_Hosdata_Docno()
+        {
+            DataTable dt = new DataTable();
+            dt = DataAccess.RetriveData(@"SELECT MAX(CAST(pt.pt.hn AS UNSIGNED integer)) FROM pt.pt");
+            string docNo_Year = DataAccess.RetriveData("SELECT SUBSTRING(NOW(),1,4) as year").Rows[0][0].ToString();
+            string sql_Update_HOsdata_Docno_MaxHN = string.Format(@"UPDATE hosdata.docno SET hosdata.docno.no ='{0}' WHERE hosdata.docno.code = 'HN' AND hosdata.docno.year = '{1}'", Convert.ToInt32(dt.Rows[0][0].ToString()), docNo_Year);
+            DataAccess.ExecuteSQL(sql_Update_HOsdata_Docno_MaxHN);
         }
     }
 }

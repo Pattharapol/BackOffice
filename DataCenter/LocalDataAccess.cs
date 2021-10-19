@@ -52,5 +52,15 @@ namespace HumanResource.DataCenter
 
             return hn;
         }
+
+        public void UpdateHN_Hosdata_Docno_Local()
+        {
+            LocalDataAccess localDataAccess = new LocalDataAccess();
+            DataTable dt = new DataTable();
+            dt = localDataAccess.RetrieveData(@"SELECT MAX(CAST(pt.pt.hn AS UNSIGNED integer)) FROM pt.pt");
+            string docNo_Year = DataAccess.RetriveData("SELECT SUBSTRING(NOW(),1,4) as year").Rows[0][0].ToString();
+            string sql_Update_HOsdata_Docno_MaxHN = string.Format(@"UPDATE hosdata.docno SET hosdata.docno.no ='{0}' WHERE hosdata.docno.code = 'HN' AND hosdata.docno.year = '{1}'", Convert.ToInt32(dt.Rows[0][0].ToString()), docNo_Year);
+            localDataAccess.ExecuteSQL(sql_Update_HOsdata_Docno_MaxHN);
+        }
     }
 }

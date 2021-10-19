@@ -1597,7 +1597,6 @@ D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\ob
 D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_CentralShareFolder.FormCentralFolder.resources
 D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_CentralShareFolder.FormChangeFolderPassword.resources
 D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_CentralShareFolder.FormLoginCentralFolder.resources
-D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_Covid19Vaccine.btnConvert.resources
 D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_Covid19Vaccine.FormLoginCovid19Vaccine.resources
 D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_Covid19Vaccine.Report.rptSerialBarcode.resources
 D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_DrugManagement.ui.FormDrugLogin.resources
@@ -1617,4 +1616,4 @@ D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\ob
 D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.csproj.CopyComplete
 D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.exe
 D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.pdb
-D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.csproj.AssemblyReference.cache
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_Covid19Vaccine.FormCovid19VaccineMain.resources

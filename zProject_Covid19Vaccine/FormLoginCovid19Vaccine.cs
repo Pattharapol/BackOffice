@@ -1,5 +1,8 @@
-﻿using DevExpress.XtraEditors;
+﻿using BackOfficeApplication.DataCenter;
+using DevExpress.XtraEditors;
+using DevExpress.XtraSplashScreen;
 using HumanResource.DataCenter;
+using HumanResource.UI;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -90,13 +93,34 @@ namespace HumanResource.zProject_Covid19Vaccine
                 {
                     this.Close();
 
-                    Thread t = new Thread((ThreadStart)(() =>
+                    DataTable dt = new DataTable();
+                    dt = DataAccess.RetriveData(string.Format(@"SELECT * FROM hosdata.user WHERE hosdata.user.userlogin = '{0}'", txtUser.Text.Trim()));
+                    if (Convert.ToInt32(dt.Rows[0]["drug"].ToString()) == 1)
                     {
-                        btnConvert f = new btnConvert();
-                        f.ShowDialog();
-                    }));
-                    t.SetApartmentState(ApartmentState.STA);
-                    t.Start();
+                        Thread t = new Thread((ThreadStart)(() =>
+                        {
+                            //actually FormCovid19VaccineMain
+                            // idk where it from
+
+                            FormCovid19VaccineMain f = new FormCovid19VaccineMain();
+                            f.ShowDialog();
+                        }));
+                        t.SetApartmentState(ApartmentState.STA);
+                        t.Start();
+                    }
+                    else
+                    {
+                        this.Close();
+                        Thread.Sleep(10);
+                        SplashScreenManager.ShowForm(this, typeof(FormProgressIndicator), false, false, false);
+                        for (int i = 3; i > 0; i--)
+                        {
+                            SplashScreenManager.Default.SetWaitFormCaption("แจ้งเตือน");
+                            SplashScreenManager.Default.SetWaitFormDescription($"ท่านไม่มีสิทธิ์เข้าใช้งาน ระบบจะปิดตัวใน...{i}");
+                            Thread.Sleep(2000);
+                        }
+                        Application.Exit();
+                    }
                 }
                 else
                 {

@@ -10,6 +10,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Globalization;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading;
@@ -30,6 +31,7 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
         private string date = "";
 
         private LocalDataAccess localDataAccess = new LocalDataAccess();
+        private DataAccess dataAccess = new DataAccess();
 
         public frmVaccineTransferData()
         {
@@ -114,10 +116,7 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
                             string sql_Update_New_HN = string.Format(@"UPDATE opd.opd SET opd.opd.hn = '{0}' WHERE opd.opd.cardid = '{1}' AND opd.opd.regdate = '{2}'", hn, dgvNewPT.Rows[i].Cells[2].Value.ToString(), date);
                             localDataAccess.ExecuteSQL(sql_Update_New_HN);
 
-                            // update hosdata.docno for keep last HN updating for original HIMPRO function
-                            string docNo_Year = Convert.ToString(Convert.ToInt32(DateTime.Now.ToString("yyyy")) - 543);
-                            string sql_Update_HOsdata_Docno_MaxHN = string.Format(@"UPDATE hosdata.docno SET hosdata.docno.no = hosdata.docno.no + 1 WHERE hosdata.docno.code = 'HN' AND hosdata.docno.year = '{0}'", docNo_Year);
-                            DataAccess.ExecuteSQL(sql_Update_HOsdata_Docno_MaxHN);
+                            DataAccess.UpdateHN_Hosdata_Docno();
 
                             // update hosdata.docno for keep last HN updating for original HIMPRO function for localhost
                             string docNo_Year1 = Convert.ToString(Convert.ToInt32(DateTime.Now.ToString("yyyy")) - 543);
@@ -313,31 +312,57 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
         {
             pbOPD_OPD.Value = 0;
             lblOPD_OPD.Text = "100%";
-            this.BeginInvoke(new ThreadStart(delegate { UpdateHN_Hosdata_Docno(); }));
-            this.BeginInvoke(new ThreadStart(delegate { UpdateHN_Hosdata_Docno_Local(); }));
-        }
-
-        private void UpdateHN_Hosdata_Docno()
-        {
-            DataTable dt = new DataTable();
-            dt = DataAccess.RetriveData(@"SELECT MAX(CAST(pt.pt.hn AS UNSIGNED integer)) FROM pt.pt");
-            string docNo_Year = DataAccess.RetriveData("SELECT SUBSTRING(NOW(),1,4) as year").Rows[0][0].ToString();
-            string sql_Update_HOsdata_Docno_MaxHN = string.Format(@"UPDATE hosdata.docno SET hosdata.docno.no ='{0}' WHERE hosdata.docno.code = 'HN' AND hosdata.docno.year = '{1}'", Convert.ToInt32(dt.Rows[0][0].ToString()), docNo_Year);
-            DataAccess.ExecuteSQL(sql_Update_HOsdata_Docno_MaxHN);
-        }
-
-        private void UpdateHN_Hosdata_Docno_Local()
-        {
-            LocalDataAccess localDataAccess = new LocalDataAccess();
-            DataTable dt = new DataTable();
-            dt = localDataAccess.RetrieveData(@"SELECT MAX(CAST(pt.pt.hn AS UNSIGNED integer)) FROM pt.pt");
-            string docNo_Year = DataAccess.RetriveData("SELECT SUBSTRING(NOW(),1,4) as year").Rows[0][0].ToString();
-            string sql_Update_HOsdata_Docno_MaxHN = string.Format(@"UPDATE hosdata.docno SET hosdata.docno.no ='{0}' WHERE hosdata.docno.code = 'HN' AND hosdata.docno.year = '{1}'", Convert.ToInt32(dt.Rows[0][0].ToString()), docNo_Year);
-            localDataAccess.ExecuteSQL(sql_Update_HOsdata_Docno_MaxHN);
+            this.BeginInvoke(new ThreadStart(delegate { DataAccess.UpdateHN_Hosdata_Docno(); }));
+            this.BeginInvoke(new ThreadStart(delegate { localDataAccess.UpdateHN_Hosdata_Docno_Local(); }));
+            this.BeginInvoke(new ThreadStart(delegate { MovePictures(); }));
         }
 
         private void frmVaccineTransferData_Load(object sender, EventArgs e)
         {
+        }
+
+        private void MovePictures()
+        {
+            string sourceFolder = @"C:\Temp\Pictures";
+            string destinationFolder = @"\\192.168.0.15\ubuntu@15\#3 Pictures\PeopleImage";
+            //string destinationFolder = @"C:\Temp\Pictures2";
+
+            if (Directory.Exists(sourceFolder) && Directory.Exists(destinationFolder))
+            {
+                SplashScreenManager.ShowForm(this, typeof(FormProgressIndicator), true, true, false);
+                foreach (var pic in new DirectoryInfo(sourceFolder).GetFiles())
+                {
+                    string picName = $@"{destinationFolder}\{pic.Name}";
+                    if (File.Exists(picName))
+                    {
+                        File.Delete(picName);
+                        pic.MoveTo($@"{destinationFolder}\{pic.Name}");
+                    }
+                    else
+                    {
+                        pic.MoveTo($@"{destinationFolder}\{pic.Name}");
+                    }
+                    //pic.MoveTo($@"{destinationFolder}\{pic.Name}");
+                    //The Wait Form is opened in a separate thread.
+                    //To change its Description, use the SetWaitFormDescription method.
+                    SplashScreenManager.Default.SetWaitFormCaption("กรุณารอสักครู่...");
+                    SplashScreenManager.Default.SetWaitFormDescription($"กำลังย้ายรูป => {pic.Name}");
+                    Thread.Sleep(10);
+                }
+                SplashScreenManager.CloseForm();
+                Thread.Sleep(10);
+            }
+            else
+            {
+                XtraMessageBox.Show($"ไม่พบ {sourceFolder} หรือ {destinationFolder} กรุณาติดต่อผู้ดูแลระบบ", "แจ้งเตือน", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+        }
+
+        private void btnTestMovePictures_Click(object sender, EventArgs e)
+        {
+            this.BeginInvoke(new ThreadStart(delegate { MovePictures(); }));
+            this.BeginInvoke(new ThreadStart(delegate { DataAccess.UpdateHN_Hosdata_Docno(); }));
         }
     }
 }

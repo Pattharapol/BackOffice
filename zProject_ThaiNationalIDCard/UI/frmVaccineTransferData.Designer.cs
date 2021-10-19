@@ -29,13 +29,7 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmVaccineTransferData));
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             this.dgvNewPT = new System.Windows.Forms.DataGridView();
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
             this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
@@ -49,6 +43,7 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             this.dtpVaccineDate = new System.Windows.Forms.DateTimePicker();
             this.bgwNewPT = new System.ComponentModel.BackgroundWorker();
             this.bgwOPD = new System.ComponentModel.BackgroundWorker();
+            this.btnTestMovePictures = new DevExpress.XtraEditors.SimpleButton();
             ((System.ComponentModel.ISupportInitialize)(this.dgvNewPT)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
             this.groupControl1.SuspendLayout();
@@ -59,34 +54,10 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             // 
             this.dgvNewPT.AllowUserToAddRows = false;
             this.dgvNewPT.AllowUserToDeleteRows = false;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Segoe UI", 12F);
-            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvNewPT.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             this.dgvNewPT.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Segoe UI", 12F);
-            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(72)))), ((int)(((byte)(70)))), ((int)(((byte)(68)))));
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvNewPT.DefaultCellStyle = dataGridViewCellStyle2;
             this.dgvNewPT.Location = new System.Drawing.Point(24, 88);
             this.dgvNewPT.Name = "dgvNewPT";
             this.dgvNewPT.ReadOnly = true;
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Segoe UI", 12F);
-            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvNewPT.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
             this.dgvNewPT.Size = new System.Drawing.Size(257, 455);
             this.dgvNewPT.TabIndex = 4;
             // 
@@ -100,6 +71,7 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             // 
             // groupControl1
             // 
+            this.groupControl1.Controls.Add(this.btnTestMovePictures);
             this.groupControl1.Controls.Add(this.btnDoWork);
             this.groupControl1.Controls.Add(this.lblOPD_OPD);
             this.groupControl1.Controls.Add(this.lblNewPT);
@@ -157,34 +129,10 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             // 
             this.dgvOPD_OPD.AllowUserToAddRows = false;
             this.dgvOPD_OPD.AllowUserToDeleteRows = false;
-            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle4.Font = new System.Drawing.Font("Segoe UI", 12F);
-            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvOPD_OPD.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle4;
             this.dgvOPD_OPD.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle5.Font = new System.Drawing.Font("Segoe UI", 12F);
-            dataGridViewCellStyle5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(72)))), ((int)(((byte)(70)))), ((int)(((byte)(68)))));
-            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvOPD_OPD.DefaultCellStyle = dataGridViewCellStyle5;
             this.dgvOPD_OPD.Location = new System.Drawing.Point(287, 88);
             this.dgvOPD_OPD.Name = "dgvOPD_OPD";
             this.dgvOPD_OPD.ReadOnly = true;
-            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle6.Font = new System.Drawing.Font("Segoe UI", 12F);
-            dataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvOPD_OPD.RowHeadersDefaultCellStyle = dataGridViewCellStyle6;
             this.dgvOPD_OPD.Size = new System.Drawing.Size(679, 455);
             this.dgvOPD_OPD.TabIndex = 5;
             // 
@@ -230,6 +178,16 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             this.bgwOPD.ProgressChanged += new System.ComponentModel.ProgressChangedEventHandler(this.bgwOPD_ProgressChanged);
             this.bgwOPD.RunWorkerCompleted += new System.ComponentModel.RunWorkerCompletedEventHandler(this.bgwOPD_RunWorkerCompleted);
             // 
+            // btnTestMovePictures
+            // 
+            this.btnTestMovePictures.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("simpleButton1.ImageOptions.SvgImage")));
+            this.btnTestMovePictures.Location = new System.Drawing.Point(704, 33);
+            this.btnTestMovePictures.Name = "btnTestMovePictures";
+            this.btnTestMovePictures.Size = new System.Drawing.Size(128, 39);
+            this.btnTestMovePictures.TabIndex = 13;
+            this.btnTestMovePictures.Text = "ทดสอบย้ายรูป";
+            this.btnTestMovePictures.Click += new System.EventHandler(this.btnTestMovePictures_Click);
+            // 
             // frmVaccineTransferData
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
@@ -264,5 +222,6 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
         private System.Windows.Forms.DateTimePicker dtpVaccineDate;
         private System.ComponentModel.BackgroundWorker bgwNewPT;
         private System.ComponentModel.BackgroundWorker bgwOPD;
+        private DevExpress.XtraEditors.SimpleButton btnTestMovePictures;
     }
 }

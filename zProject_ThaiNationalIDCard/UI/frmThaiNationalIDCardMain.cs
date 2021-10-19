@@ -59,6 +59,7 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             txtPrintNumber.SelectedIndex = 0;
             DataAccess.GetConnectionString();
             GetConnection();
+            DataAccess.UpdateHN_Hosdata_Docno();
         }
 
         private void Log(string text = "")
@@ -397,10 +398,10 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
                 else
                 {
                     // if not, go to newCase Method
-                    newCase();
+                    // newCase();
 
-                    //XtraMessageBox.Show("ไม่พบคนไข้รายนี้ในระบบ...", "แจ้งทราบ", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    //return;
+                    XtraMessageBox.Show("ไม่พบคนไข้รายนี้ในระบบ...กรุณาขึ้นบัตรใหม่ที่ HIMPRO ด้วยครับ", "แจ้งทราบ", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    return;
                 }
             }
         }
@@ -872,6 +873,7 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             {
                 x.Print();
             }
+            DataAccess.UpdateHN_Hosdata_Docno();
         }
 
         private void PrintNewCase()
@@ -896,6 +898,7 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             {
                 x.Print();
             }
+            DataAccess.UpdateHN_Hosdata_Docno();
         }
 
         private void btnBarcode_Click(object sender, EventArgs e)
@@ -1239,6 +1242,11 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             {
                 x.Print();
             }
+        }
+
+        private void btnUpdateHN_Click(object sender, EventArgs e)
+        {
+            DataAccess.UpdateHN_Hosdata_Docno();
         }
     }
 }

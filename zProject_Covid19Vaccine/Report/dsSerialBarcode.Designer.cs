@@ -279,13 +279,15 @@ namespace HumanResource.zProject_Covid19Vaccine.Report {
         [global::System.Xml.Serialization.XmlSchemaProviderAttribute("GetTypedTableSchema")]
         public partial class DataTableDataTable : global::System.Data.TypedTableBase<DataTableRow> {
             
-            private global::System.Data.DataColumn columnserial;
+            private global::System.Data.DataColumn columnCompany;
             
-            private global::System.Data.DataColumn columnvaccineName;
+            private global::System.Data.DataColumn columnSerialNumber;
             
-            private global::System.Data.DataColumn columnlot;
+            private global::System.Data.DataColumn columnLotNumber;
             
-            private global::System.Data.DataColumn columnexpire;
+            private global::System.Data.DataColumn columnExpiredDate;
+            
+            private global::System.Data.DataColumn columnID;
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
@@ -322,33 +324,41 @@ namespace HumanResource.zProject_Covid19Vaccine.Report {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public global::System.Data.DataColumn serialColumn {
+            public global::System.Data.DataColumn CompanyColumn {
                 get {
-                    return this.columnserial;
+                    return this.columnCompany;
                 }
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public global::System.Data.DataColumn vaccineNameColumn {
+            public global::System.Data.DataColumn SerialNumberColumn {
                 get {
-                    return this.columnvaccineName;
+                    return this.columnSerialNumber;
                 }
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public global::System.Data.DataColumn lotColumn {
+            public global::System.Data.DataColumn LotNumberColumn {
                 get {
-                    return this.columnlot;
+                    return this.columnLotNumber;
                 }
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public global::System.Data.DataColumn expireColumn {
+            public global::System.Data.DataColumn ExpiredDateColumn {
                 get {
-                    return this.columnexpire;
+                    return this.columnExpiredDate;
+                }
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
+            public global::System.Data.DataColumn IDColumn {
+                get {
+                    return this.columnID;
                 }
             }
             
@@ -389,13 +399,14 @@ namespace HumanResource.zProject_Covid19Vaccine.Report {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public DataTableRow AddDataTableRow(string serial, string vaccineName, string lot, string expire) {
+            public DataTableRow AddDataTableRow(string Company, string SerialNumber, string LotNumber, string ExpiredDate, string ID) {
                 DataTableRow rowDataTableRow = ((DataTableRow)(this.NewRow()));
                 object[] columnValuesArray = new object[] {
-                        serial,
-                        vaccineName,
-                        lot,
-                        expire};
+                        Company,
+                        SerialNumber,
+                        LotNumber,
+                        ExpiredDate,
+                        ID};
                 rowDataTableRow.ItemArray = columnValuesArray;
                 this.Rows.Add(rowDataTableRow);
                 return rowDataTableRow;
@@ -418,23 +429,26 @@ namespace HumanResource.zProject_Covid19Vaccine.Report {
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
             internal void InitVars() {
-                this.columnserial = base.Columns["serial"];
-                this.columnvaccineName = base.Columns["vaccineName"];
-                this.columnlot = base.Columns["lot"];
-                this.columnexpire = base.Columns["expire"];
+                this.columnCompany = base.Columns["Company"];
+                this.columnSerialNumber = base.Columns["SerialNumber"];
+                this.columnLotNumber = base.Columns["LotNumber"];
+                this.columnExpiredDate = base.Columns["ExpiredDate"];
+                this.columnID = base.Columns["ID"];
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
             private void InitClass() {
-                this.columnserial = new global::System.Data.DataColumn("serial", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.columnserial);
-                this.columnvaccineName = new global::System.Data.DataColumn("vaccineName", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.columnvaccineName);
-                this.columnlot = new global::System.Data.DataColumn("lot", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.columnlot);
-                this.columnexpire = new global::System.Data.DataColumn("expire", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.columnexpire);
+                this.columnCompany = new global::System.Data.DataColumn("Company", typeof(string), null, global::System.Data.MappingType.Element);
+                base.Columns.Add(this.columnCompany);
+                this.columnSerialNumber = new global::System.Data.DataColumn("SerialNumber", typeof(string), null, global::System.Data.MappingType.Element);
+                base.Columns.Add(this.columnSerialNumber);
+                this.columnLotNumber = new global::System.Data.DataColumn("LotNumber", typeof(string), null, global::System.Data.MappingType.Element);
+                base.Columns.Add(this.columnLotNumber);
+                this.columnExpiredDate = new global::System.Data.DataColumn("ExpiredDate", typeof(string), null, global::System.Data.MappingType.Element);
+                base.Columns.Add(this.columnExpiredDate);
+                this.columnID = new global::System.Data.DataColumn("ID", typeof(string), null, global::System.Data.MappingType.Element);
+                base.Columns.Add(this.columnID);
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -577,114 +591,142 @@ namespace HumanResource.zProject_Covid19Vaccine.Report {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public string serial {
+            public string Company {
                 get {
                     try {
-                        return ((string)(this[this.tableDataTable.serialColumn]));
+                        return ((string)(this[this.tableDataTable.CompanyColumn]));
                     }
                     catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'serial\' in table \'DataTable\' is DBNull.", e);
+                        throw new global::System.Data.StrongTypingException("The value for column \'Company\' in table \'DataTable\' is DBNull.", e);
                     }
                 }
                 set {
-                    this[this.tableDataTable.serialColumn] = value;
+                    this[this.tableDataTable.CompanyColumn] = value;
                 }
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public string vaccineName {
+            public string SerialNumber {
                 get {
                     try {
-                        return ((string)(this[this.tableDataTable.vaccineNameColumn]));
+                        return ((string)(this[this.tableDataTable.SerialNumberColumn]));
                     }
                     catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'vaccineName\' in table \'DataTable\' is DBNull.", e);
+                        throw new global::System.Data.StrongTypingException("The value for column \'SerialNumber\' in table \'DataTable\' is DBNull.", e);
                     }
                 }
                 set {
-                    this[this.tableDataTable.vaccineNameColumn] = value;
+                    this[this.tableDataTable.SerialNumberColumn] = value;
                 }
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public string lot {
+            public string LotNumber {
                 get {
                     try {
-                        return ((string)(this[this.tableDataTable.lotColumn]));
+                        return ((string)(this[this.tableDataTable.LotNumberColumn]));
                     }
                     catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'lot\' in table \'DataTable\' is DBNull.", e);
+                        throw new global::System.Data.StrongTypingException("The value for column \'LotNumber\' in table \'DataTable\' is DBNull.", e);
                     }
                 }
                 set {
-                    this[this.tableDataTable.lotColumn] = value;
+                    this[this.tableDataTable.LotNumberColumn] = value;
                 }
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public string expire {
+            public string ExpiredDate {
                 get {
                     try {
-                        return ((string)(this[this.tableDataTable.expireColumn]));
+                        return ((string)(this[this.tableDataTable.ExpiredDateColumn]));
                     }
                     catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'expire\' in table \'DataTable\' is DBNull.", e);
+                        throw new global::System.Data.StrongTypingException("The value for column \'ExpiredDate\' in table \'DataTable\' is DBNull.", e);
                     }
                 }
                 set {
-                    this[this.tableDataTable.expireColumn] = value;
+                    this[this.tableDataTable.ExpiredDateColumn] = value;
                 }
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public bool IsserialNull() {
-                return this.IsNull(this.tableDataTable.serialColumn);
+            public string ID {
+                get {
+                    try {
+                        return ((string)(this[this.tableDataTable.IDColumn]));
+                    }
+                    catch (global::System.InvalidCastException e) {
+                        throw new global::System.Data.StrongTypingException("The value for column \'ID\' in table \'DataTable\' is DBNull.", e);
+                    }
+                }
+                set {
+                    this[this.tableDataTable.IDColumn] = value;
+                }
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public void SetserialNull() {
-                this[this.tableDataTable.serialColumn] = global::System.Convert.DBNull;
+            public bool IsCompanyNull() {
+                return this.IsNull(this.tableDataTable.CompanyColumn);
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public bool IsvaccineNameNull() {
-                return this.IsNull(this.tableDataTable.vaccineNameColumn);
+            public void SetCompanyNull() {
+                this[this.tableDataTable.CompanyColumn] = global::System.Convert.DBNull;
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public void SetvaccineNameNull() {
-                this[this.tableDataTable.vaccineNameColumn] = global::System.Convert.DBNull;
+            public bool IsSerialNumberNull() {
+                return this.IsNull(this.tableDataTable.SerialNumberColumn);
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public bool IslotNull() {
-                return this.IsNull(this.tableDataTable.lotColumn);
+            public void SetSerialNumberNull() {
+                this[this.tableDataTable.SerialNumberColumn] = global::System.Convert.DBNull;
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public void SetlotNull() {
-                this[this.tableDataTable.lotColumn] = global::System.Convert.DBNull;
+            public bool IsLotNumberNull() {
+                return this.IsNull(this.tableDataTable.LotNumberColumn);
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public bool IsexpireNull() {
-                return this.IsNull(this.tableDataTable.expireColumn);
+            public void SetLotNumberNull() {
+                this[this.tableDataTable.LotNumberColumn] = global::System.Convert.DBNull;
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public void SetexpireNull() {
-                this[this.tableDataTable.expireColumn] = global::System.Convert.DBNull;
+            public bool IsExpiredDateNull() {
+                return this.IsNull(this.tableDataTable.ExpiredDateColumn);
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
+            public void SetExpiredDateNull() {
+                this[this.tableDataTable.ExpiredDateColumn] = global::System.Convert.DBNull;
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
+            public bool IsIDNull() {
+                return this.IsNull(this.tableDataTable.IDColumn);
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
+            public void SetIDNull() {
+                this[this.tableDataTable.IDColumn] = global::System.Convert.DBNull;
             }
         }
         
