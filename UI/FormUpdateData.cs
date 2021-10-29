@@ -128,15 +128,31 @@ namespace HumanResource.UI
                     string time = dgvCHECKIN.Rows[iCHeckIn].Cells[1].Value.ToString().Substring(11);
                     //string realTime = Convert.ToDateTime(time).ToString("hh:mm");
 
-                    string sqlINSERT = string.Format(@"INSERT INTO human_resource.check_in (userid, check_date, check_time, check_type) VALUES ('{0}', '{1}', '{2}', '{3}')", dgvCHECKIN.Rows[iCHeckIn].Cells[0].Value.ToString(), realDate, time, dgvCHECKIN.Rows[iCHeckIn].Cells[2].Value.ToString());
-
-                    this.BeginInvoke(new MethodInvoker(delegate
+                    // check for check_in or check_out
+                    if (dgvCHECKIN.Rows[iCHeckIn].Cells[2].Value.ToString() == "I")
                     {
-                        lblCheckInCount.Text = iCHeckIn.ToString() + "/" + dgvCHECKIN.Rows.Count.ToString();
-                        lblCheckInCount.Update();
-                    }));
+                        string sqlINSERT = string.Format(@"INSERT INTO human_resource.check_in (userid, check_date, check_time, check_type) VALUES ('{0}', '{1}', '{2}', '{3}')", dgvCHECKIN.Rows[iCHeckIn].Cells[0].Value.ToString(), realDate, time, dgvCHECKIN.Rows[iCHeckIn].Cells[2].Value.ToString());
 
-                    DataAccess.ExecuteSQL(sqlINSERT);
+                        this.BeginInvoke(new MethodInvoker(delegate
+                        {
+                            lblCheckInCount.Text = iCHeckIn.ToString() + "/" + dgvCHECKIN.Rows.Count.ToString();
+                            lblCheckInCount.Update();
+                        }));
+
+                        DataAccess.ExecuteSQL(sqlINSERT);
+                    }
+                    else
+                    {
+                        string sqlINSERT = string.Format(@"INSERT INTO human_resource.check_out (userid, check_date, check_time, check_type) VALUES ('{0}', '{1}', '{2}', '{3}')", dgvCHECKIN.Rows[iCHeckIn].Cells[0].Value.ToString(), realDate, time, dgvCHECKIN.Rows[iCHeckIn].Cells[2].Value.ToString());
+
+                        this.BeginInvoke(new MethodInvoker(delegate
+                        {
+                            lblCheckInCount.Text = iCHeckIn.ToString() + "/" + dgvCHECKIN.Rows.Count.ToString();
+                            lblCheckInCount.Update();
+                        }));
+
+                        DataAccess.ExecuteSQL(sqlINSERT);
+                    }
                 }
             }
             catch
@@ -182,6 +198,7 @@ namespace HumanResource.UI
                     SplashScreenManager.Default.SetWaitFormDescription("กรุณารอสักครู่...");
 
                     cboTypeOfImportData.Enabled = false;
+                    // เฉพาะเดือนล่าสุด ลบแค่เดือนนั้นๆ
                     if (cboTypeOfImportData.SelectedIndex == 2)
                     {
                         string year = DateTime.Now.ToString("yyyy");
@@ -192,12 +209,16 @@ namespace HumanResource.UI
                             lastMonth = "0" + lastMonth;
                             yearAndMonth = year + lastMonth;
                         }
-                        string sqlDeletePresentMonth = string.Format(@"DELETE FROM human_resource.check_in WHERE replace(human_resource.check_in.check_date, '-','') LIKE '%{0}%'", yearAndMonth);
-                        DataAccess.ExecuteSQL(sqlDeletePresentMonth);
+                        string sqlDeleteCurrentMonthFromCheckIn = string.Format(@"DELETE FROM human_resource.check_in WHERE replace(human_resource.check_in.check_date, '-','') LIKE '%{0}%'", yearAndMonth);
+                        DataAccess.ExecuteSQL(sqlDeleteCurrentMonthFromCheckIn);
+                        string sqlDeleteCurrentMonthFromCheckOUT = string.Format(@"DELETE FROM human_resource.check_out WHERE replace(human_resource.check_out.check_date, '-','') LIKE '%{0}%'", yearAndMonth);
+                        DataAccess.ExecuteSQL(sqlDeleteCurrentMonthFromCheckOUT);
                     }
+                    // ทั้งปีงบประมาณ ลบทั้งหมด
                     if (cboTypeOfImportData.SelectedIndex == 1)
                     {
                         DataAccess.ExecuteSQL("DELETE FROM human_resource.check_in");
+                        DataAccess.ExecuteSQL("DELETE FROM human_resource.check_out");
                     }
 
                     // disable button

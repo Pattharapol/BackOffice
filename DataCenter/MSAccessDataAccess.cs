@@ -39,18 +39,18 @@ namespace BackOfficeApplication.DataCenter
                         "WHERE (CHECKTIME LIKE '%" + presentYear + "%' " +
                         "OR CHECKTIME LIKE '%" + "10/" + lastYear + "%' " +
                         "OR CHECKTIME LIKE '%" + "11/" + lastYear + "%' " +
-                        "OR CHECKTIME LIKE '%" + "12/" + lastYear + "%') AND CHECKTYPE = 'I' ");
+                        "OR CHECKTIME LIKE '%" + "12/" + lastYear + "%')");
                 }
                 else
                 {
                     // เอาไว้ประมวลผลรายเดือน
                     if (presentMonth == "01")
                     {
-                        sql = ("SELECT USERID, CHECKTIME, CHECKTYPE FROM CHECKINOUT WHERE CHECKTIME LIKE '%" + "12/" + lastYear + "%' AND CHECKTYPE = 'I' ");
+                        sql = ("SELECT USERID, CHECKTIME, CHECKTYPE FROM CHECKINOUT WHERE CHECKTIME LIKE '%" + "12/" + lastYear + "%'");
                     }
                     else
                     {
-                        sql = ("SELECT USERID, CHECKTIME, CHECKTYPE FROM CHECKINOUT WHERE CHECKTIME LIKE '%" + lastMonth + "/" + presentYear + "%' AND CHECKTYPE = 'I' ");
+                        sql = ("SELECT USERID, CHECKTIME, CHECKTYPE FROM CHECKINOUT WHERE CHECKTIME LIKE '%" + lastMonth + "/" + presentYear + "%'");
                     }
                 }
 

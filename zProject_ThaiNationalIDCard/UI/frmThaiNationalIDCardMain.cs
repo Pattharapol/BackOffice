@@ -392,6 +392,7 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
                         {
                         }
                     }
+
                     // oldcase
                     oldCase();
                 }

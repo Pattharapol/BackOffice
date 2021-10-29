@@ -61,7 +61,8 @@ namespace HumanResource
         private void FormMainMenu_Load(object sender, EventArgs e)
         {
             webBrowser.ScriptErrorsSuppressed = true;
-            webBrowser.Navigate(@"http://203.157.197.90/webpage");
+            webBrowser.Navigate(@"http://192.168.0.3/himpro");
+            //webBrowser.Dock = System.Windows.Forms.DockStyle.Fill;
         }
     }
 }

@@ -1617,3 +1617,4 @@ D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\ob
 D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.exe
 D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.pdb
 D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.zProject_Covid19Vaccine.FormCovid19VaccineMain.resources
+D:\#1 CodingArea\#1 MyProjects\DX_BackOfficeApplication\BackOfficeApplication\obj\Debug\HumanResource.csproj.AssemblyReference.cache
