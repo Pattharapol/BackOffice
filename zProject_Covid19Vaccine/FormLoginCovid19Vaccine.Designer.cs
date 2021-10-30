@@ -126,7 +126,6 @@ namespace HumanResource.zProject_Covid19Vaccine
             this.Controls.Add(this.pictureEdit1);
             this.FormBorderEffect = DevExpress.XtraEditors.FormBorderEffect.Shadow;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.IconOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("FormLoginCovid19Vaccine.IconOptions.SvgImage")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "FormLoginCovid19Vaccine";

@@ -38,6 +38,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <LangVersion>7.2</LangVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -47,37 +48,41 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <LangVersion>7.2</LangVersion>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>backoffice_aMq_icon.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="BarcodeStandard, Version=2.4.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>packages\BarcodeLib.2.4.0\lib\netstandard2.0\BarcodeStandard.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.BonusSkins.v21.1" />
-    <Reference Include="DevExpress.Charts.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.Data.v21.1" />
-    <Reference Include="DevExpress.Office.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.Pdf.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.PivotGrid.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.Printing.v21.1.Core" />
-    <Reference Include="DevExpress.RichEdit.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.Data.Desktop.v21.1" />
-    <Reference Include="DevExpress.RichEdit.v21.1.Export, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.Utils.v21.1" />
-    <Reference Include="DevExpress.Utils.v21.1.UI, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.XtraBars.v21.1" />
-    <Reference Include="DevExpress.Sparkline.v21.1.Core" />
-    <Reference Include="DevExpress.XtraCharts.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.XtraEditors.v21.1" />
-    <Reference Include="DevExpress.XtraGauges.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.XtraGrid.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.XtraLayout.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.XtraNavBar.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.XtraPrinting.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.XtraReports.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.XtraReports.v21.1.Extensions, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.BonusSkins.v18.1" />
+    <Reference Include="DevExpress.Charts.v18.1.Core, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v18.1" />
+    <Reference Include="DevExpress.Office.v18.1.Core, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v18.1.Core, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v18.1.Core, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v18.1.Core" />
+    <Reference Include="DevExpress.RichEdit.v18.1.Core, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.Desktop.v18.1" />
+    <Reference Include="DevExpress.RichEdit.v18.1.Export, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v18.1" />
+    <Reference Include="DevExpress.Utils.v18.1.UI, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v18.1" />
+    <Reference Include="DevExpress.Sparkline.v18.1.Core" />
+    <Reference Include="DevExpress.XtraCharts.v18.1.Wizard, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v18.1" />
+    <Reference Include="DevExpress.XtraGauges.v18.1.Core, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.CodeParser.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v18.1.Extensions, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
     </Reference>
@@ -170,6 +175,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>dsOffDuty.xsd</DependentUpon>
     </Compile>
+    <Compile Include="Report\dsRandomCheckOfficer.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsRandomCheckOfficer.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Report\dsServiceWorker.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -180,6 +190,12 @@
     </Compile>
     <Compile Include="Report\rptOffDuty.Designer.cs">
       <DependentUpon>rptOffDuty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptRandomCheckOfficer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptRandomCheckOfficer.Designer.cs">
+      <DependentUpon>rptRandomCheckOfficer.cs</DependentUpon>
     </Compile>
     <Compile Include="Report\rptServiceWorker.cs">
       <SubType>Component</SubType>
@@ -254,6 +270,12 @@
     </Compile>
     <Compile Include="UI\FormUpdateData.Designer.cs">
       <DependentUpon>FormUpdateData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmRandomCheckOfficer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmRandomCheckOfficer.Designer.cs">
+      <DependentUpon>frmRandomCheckOfficer.cs</DependentUpon>
     </Compile>
     <Compile Include="zProject_CentralShareFolder\FormAccessFolder.cs">
       <SubType>Form</SubType>
@@ -392,6 +414,9 @@
     <EmbeddedResource Include="Report\rptOffDuty.resx">
       <DependentUpon>rptOffDuty.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptRandomCheckOfficer.resx">
+      <DependentUpon>rptRandomCheckOfficer.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Report\rptServiceWorker.resx">
       <DependentUpon>rptServiceWorker.cs</DependentUpon>
     </EmbeddedResource>
@@ -437,6 +462,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UI\FormUpdateData.resx">
       <DependentUpon>FormUpdateData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmRandomCheckOfficer.resx">
+      <DependentUpon>frmRandomCheckOfficer.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="zProject_CentralShareFolder\FormAccessFolder.resx">
       <DependentUpon>FormAccessFolder.cs</DependentUpon>
@@ -514,6 +542,17 @@
     <None Include="Report\dsOffDuty.xss">
       <DependentUpon>dsOffDuty.xsd</DependentUpon>
     </None>
+    <None Include="Report\dsRandomCheckOfficer.xsc">
+      <DependentUpon>dsRandomCheckOfficer.xsd</DependentUpon>
+    </None>
+    <None Include="Report\dsRandomCheckOfficer.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsRandomCheckOfficer.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Report\dsRandomCheckOfficer.xss">
+      <DependentUpon>dsRandomCheckOfficer.xsd</DependentUpon>
+    </None>
     <None Include="Report\dsServiceWorker.xsc">
       <DependentUpon>dsServiceWorker.xsd</DependentUpon>
     </None>
@@ -549,11 +588,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="backoffice_aMq_icon.ico" />
-    <Content Include="backoffice_ksF_icon.ico" />
     <Content Include="Image\microsoft-access %281%29.png" />
     <Content Include="Image\microsoft-access %282%29.png" />
     <Content Include="Image\microsoft-access.png" />
+    <Content Include="Image\psswlogo_XbZ_icon.ico" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="zProject_DrugManagement\model\" />

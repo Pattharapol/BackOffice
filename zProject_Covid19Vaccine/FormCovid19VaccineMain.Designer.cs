@@ -334,7 +334,6 @@ namespace HumanResource.zProject_Covid19Vaccine
             this.Controls.Add(this.groupControl2);
             this.Controls.Add(this.groupControl1);
             this.Controls.Add(this.btnPrint);
-            this.IconOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("FormCovid19VaccineMain.IconOptions.SvgImage")));
             this.Name = "FormCovid19VaccineMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Covid- 19 Vaccine Information";

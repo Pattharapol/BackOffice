@@ -33,6 +33,7 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             this.dgvNewPT = new System.Windows.Forms.DataGridView();
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
             this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
+            this.btnTestMovePictures = new DevExpress.XtraEditors.SimpleButton();
             this.btnDoWork = new DevExpress.XtraEditors.SimpleButton();
             this.lblOPD_OPD = new System.Windows.Forms.Label();
             this.lblNewPT = new System.Windows.Forms.Label();
@@ -43,7 +44,6 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             this.dtpVaccineDate = new System.Windows.Forms.DateTimePicker();
             this.bgwNewPT = new System.ComponentModel.BackgroundWorker();
             this.bgwOPD = new System.ComponentModel.BackgroundWorker();
-            this.btnTestMovePictures = new DevExpress.XtraEditors.SimpleButton();
             ((System.ComponentModel.ISupportInitialize)(this.dgvNewPT)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
             this.groupControl1.SuspendLayout();
@@ -87,6 +87,16 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             this.groupControl1.Size = new System.Drawing.Size(971, 613);
             this.groupControl1.TabIndex = 2;
             this.groupControl1.Text = "โอนถ่ายข้อมูลการฉีดวัคซีนนอกสถานที่";
+            // 
+            // btnTestMovePictures
+            // 
+            this.btnTestMovePictures.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("btnTestMovePictures.ImageOptions.SvgImage")));
+            this.btnTestMovePictures.Location = new System.Drawing.Point(704, 33);
+            this.btnTestMovePictures.Name = "btnTestMovePictures";
+            this.btnTestMovePictures.Size = new System.Drawing.Size(128, 39);
+            this.btnTestMovePictures.TabIndex = 13;
+            this.btnTestMovePictures.Text = "ทดสอบย้ายรูป";
+            this.btnTestMovePictures.Click += new System.EventHandler(this.btnTestMovePictures_Click);
             // 
             // btnDoWork
             // 
@@ -178,22 +188,13 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             this.bgwOPD.ProgressChanged += new System.ComponentModel.ProgressChangedEventHandler(this.bgwOPD_ProgressChanged);
             this.bgwOPD.RunWorkerCompleted += new System.ComponentModel.RunWorkerCompletedEventHandler(this.bgwOPD_RunWorkerCompleted);
             // 
-            // btnTestMovePictures
-            // 
-            this.btnTestMovePictures.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("simpleButton1.ImageOptions.SvgImage")));
-            this.btnTestMovePictures.Location = new System.Drawing.Point(704, 33);
-            this.btnTestMovePictures.Name = "btnTestMovePictures";
-            this.btnTestMovePictures.Size = new System.Drawing.Size(128, 39);
-            this.btnTestMovePictures.TabIndex = 13;
-            this.btnTestMovePictures.Text = "ทดสอบย้ายรูป";
-            this.btnTestMovePictures.Click += new System.EventHandler(this.btnTestMovePictures_Click);
-            // 
             // frmVaccineTransferData
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1029, 648);
             this.Controls.Add(this.groupControl1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmVaccineTransferData";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "โอนถ่ายข้อมูล";

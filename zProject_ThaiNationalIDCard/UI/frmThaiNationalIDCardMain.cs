@@ -1,6 +1,7 @@
 ﻿using BackOfficeApplication.DataCenter;
 using BackOfficeApplication.Model;
 using DevExpress.XtraEditors;
+using DevExpress.XtraReports.UI;
 using HumanResource.zProject_ThaiNationalIDCard.Report;
 using MySql.Data.MySqlClient;
 using System;

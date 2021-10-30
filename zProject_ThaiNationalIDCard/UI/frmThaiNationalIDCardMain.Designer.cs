@@ -675,7 +675,6 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             // 
             // btnUpdateHN
             // 
-            this.btnUpdateHN.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton1.ImageOptions.Image")));
             this.btnUpdateHN.Location = new System.Drawing.Point(16, 386);
             this.btnUpdateHN.Name = "btnUpdateHN";
             this.btnUpdateHN.Size = new System.Drawing.Size(158, 49);
@@ -757,6 +756,7 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnRead);
             this.FormBorderEffect = DevExpress.XtraEditors.FormBorderEffect.Shadow;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmThaiNationalIDCardMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Smart Card Reader cOde : by Pattharapol";

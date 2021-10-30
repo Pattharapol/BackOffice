@@ -81,6 +81,7 @@ namespace HumanResource.zProject_DrugManagement.ui
             this.Controls.Add(this.btnChooseVendor);
             this.Controls.Add(this.dgvSearchVendor);
             this.Controls.Add(this.txtSearchVendor);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmSearchVendor";

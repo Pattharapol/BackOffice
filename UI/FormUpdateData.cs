@@ -379,6 +379,36 @@ namespace HumanResource.UI
 
                     DataAccess.ExecuteSQL(string.Format(@"INSERT INTO human_resource.userinfo (id, NAME, TITLE, DEPTID) VALUES ('{0}', '{1}', '{2}', '{3}')", dgvUSERINFO.Rows[iUser].Cells[0].Value.ToString(), dgvUSERINFO.Rows[iUser].Cells[1].Value.ToString(), dgvUSERINFO.Rows[iUser].Cells[2].Value.ToString(), dgvUSERINFO.Rows[iUser].Cells[3].Value.ToString()));
                 }
+
+                Thread.Sleep(10);
+                string sqlUpdate1112 = string.Format(@"UPDATE human_resource.userinfo SET NAME = 'อรรถวุฒิ ธรรมชาติ', TITLE = 'นาย', DEPTID = '5' WHERE id = '134'");
+                DataAccess.ExecuteSQL(sqlUpdate1112);
+                Thread.Sleep(10);
+
+                string sqlUpdate1113 = string.Format(@"UPDATE human_resource.userinfo SET NAME = 'จุฑามาศ บุญคำ', TITLE = 'นางสาว', DEPTID = '9' WHERE id = '136'");
+                DataAccess.ExecuteSQL(sqlUpdate1113);
+                Thread.Sleep(10);
+
+                string sqlUpdate1114 = string.Format(@"UPDATE human_resource.userinfo SET NAME = 'พิมพ์ประพัทร์ อุดมทนัชโชติ', TITLE = 'นางสาว', DEPTID = '9' WHERE id = '135'");
+                DataAccess.ExecuteSQL(sqlUpdate1114);
+                Thread.Sleep(10);
+
+                string sqlUpdate1115 = string.Format(@"UPDATE human_resource.userinfo SET NAME = 'สุมิตา ดวงมาลา', TITLE = 'นางสาว', DEPTID = '9' WHERE id = '137'");
+                DataAccess.ExecuteSQL(sqlUpdate1115);
+                Thread.Sleep(10);
+
+                //string sqlUpdate16 = string.Format(@"");
+                string sqlUpdate1117 = string.Format(@"UPDATE human_resource.userinfo SET NAME = 'สมยศ ศรีมูล', TITLE = 'นาย', DEPTID = '14' WHERE id = '140'");
+                DataAccess.ExecuteSQL(sqlUpdate1117);
+                Thread.Sleep(10);
+
+                string sqlUpdate1118 = string.Format(@"UPDATE human_resource.userinfo SET NAME = 'ณัฐนันท์ พิมพ์วัน', TITLE = 'นางสาว', DEPTID = '9' WHERE id = '139'");
+                DataAccess.ExecuteSQL(sqlUpdate1118);
+                Thread.Sleep(10);
+
+                string sqlUpdate1119 = string.Format(@"UPDATE human_resource.userinfo SET NAME = 'เมธี แสนการุณ', TITLE = 'นาย', DEPTID = '8' WHERE id = '138'");
+                DataAccess.ExecuteSQL(sqlUpdate1119);
+                Thread.Sleep(10);
             }
             catch
             {

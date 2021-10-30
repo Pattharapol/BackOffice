@@ -15,6 +15,7 @@ namespace HumanResource.UI
     public partial class FormSearchOfficer : DevExpress.XtraEditors.XtraForm
     {
         private FormOffDuty FormOffDuty;
+        private frmRandomCheckOfficer frmRandomCheckOfficer;
 
         public FormSearchOfficer(FormOffDuty frm, string searchValue)
         {
@@ -23,9 +24,25 @@ namespace HumanResource.UI
             DataAccess.GetConnectionString();
 
             this.FormOffDuty = frm;
+            //this.txtSearch.Text = searchValue;
+            //this.txtSearch.Focus();
+            //this.txtSearch.SelectAll();
+            dgvSearch.Focus();
+            dgvSearch.CurrentRow.Selected = true;
+        }
+
+        public FormSearchOfficer(frmRandomCheckOfficer frmRandomCheckOfficer, string searchValue)
+        {
+            InitializeComponent();
+            //GetConnectionString()
+            DataAccess.GetConnectionString();
+
+            this.frmRandomCheckOfficer = frmRandomCheckOfficer;
             this.txtSearch.Text = searchValue;
-            this.txtSearch.Focus();
-            this.txtSearch.SelectAll();
+            //this.txtSearch.Focus();
+            //this.txtSearch.SelectAll();
+            dgvSearch.Focus();
+            dgvSearch.CurrentRow.Selected = true;
         }
 
         private void SearchOfficer(string searchValue)
@@ -43,10 +60,19 @@ namespace HumanResource.UI
 
             DataTable dt = new DataTable();
             dt = DataAccess.RetriveData(sql);
-            dgvSearch.DataSource = dt;
-            dgvSearch.Columns[0].AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
-            dgvSearch.Columns[1].Visible = false;
-            dgvSearch.Columns[2].AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells;
+            if (dt.Rows.Count > 0)
+            {
+                dgvSearch.DataSource = dt;
+                dgvSearch.Columns[0].AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
+                dgvSearch.Columns[1].Visible = false;
+                dgvSearch.Columns[2].AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells;
+                dgvSearch.Focus();
+                dgvSearch.CurrentRow.Selected = true;
+            }
+            else
+            {
+                dgvSearch.DataSource = null;
+            }
         }
 
         private void btnCancel_Click(object sender, EventArgs e)
@@ -63,15 +89,32 @@ namespace HumanResource.UI
         {
             if (dgvSearch.SelectedRows.Count == 1)
             {
-                FormOffDuty.txtSearchOfficer.Text = dgvSearch.CurrentRow.Cells[0].Value.ToString();
-                FormOffDuty.lblDeptID.Text = dgvSearch.CurrentRow.Cells[1].Value.ToString();
-                FormOffDuty.txtDept.Text = dgvSearch.CurrentRow.Cells[2].Value.ToString();
+                frmRandomCheckOfficer.txtSearchOfficer.Text = dgvSearch.CurrentRow.Cells[0].Value.ToString();
+                frmRandomCheckOfficer.txtSearchOfficer.ReadOnly = true;
                 this.Close();
             }
             else
             {
                 XtraMessageBox.Show("กรุณาเลือกรายการที่ต้องการเพียง 1 รายการครับ", "", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
+            }
+        }
+
+        private void dgvSearch_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                if (dgvSearch.SelectedRows.Count == 1)
+                {
+                    frmRandomCheckOfficer.txtSearchOfficer.Text = dgvSearch.CurrentRow.Cells[0].Value.ToString();
+                    frmRandomCheckOfficer.txtSearchOfficer.ReadOnly = true;
+                    this.Close();
+                }
+                else
+                {
+                    XtraMessageBox.Show("กรุณาเลือกรายการที่ต้องการเพียง 1 รายการครับ", "", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
             }
         }
     }

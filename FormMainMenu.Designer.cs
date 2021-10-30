@@ -68,7 +68,7 @@
             this.lblTitle.Appearance.Font = new System.Drawing.Font("Segoe UI", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitle.Appearance.Options.UseFont = true;
             this.lblTitle.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.lblTitle.Location = new System.Drawing.Point(594, 12);
+            this.lblTitle.Location = new System.Drawing.Point(397, 12);
             this.lblTitle.Name = "lblTitle";
             this.lblTitle.Size = new System.Drawing.Size(299, 37);
             this.lblTitle.TabIndex = 1;
@@ -117,7 +117,7 @@
             this.webBrowser.Location = new System.Drawing.Point(197, 61);
             this.webBrowser.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser.Name = "webBrowser";
-            this.webBrowser.Size = new System.Drawing.Size(1281, 741);
+            this.webBrowser.Size = new System.Drawing.Size(878, 503);
             this.webBrowser.TabIndex = 6;
             this.webBrowser.Url = new System.Uri("http://203.157.197.90/webpage", System.UriKind.Absolute);
             // 
@@ -125,7 +125,7 @@
             // 
             this.Appearance.Options.UseFont = true;
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.ClientSize = new System.Drawing.Size(1490, 814);
+            this.ClientSize = new System.Drawing.Size(1097, 583);
             this.Controls.Add(this.webBrowser);
             this.Controls.Add(this.btnDrugManagement);
             this.Controls.Add(this.btnCovid19Vaccine);
@@ -136,8 +136,7 @@
             this.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderEffect = DevExpress.XtraEditors.FormBorderEffect.Shadow;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.IconOptions.Icon = ((System.Drawing.Icon)(resources.GetObject("FormMainMenu.IconOptions.Icon")));
-            this.IconOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("FormMainMenu.IconOptions.SvgImage")));
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(1900, 1000);
             this.Name = "FormMainMenu";

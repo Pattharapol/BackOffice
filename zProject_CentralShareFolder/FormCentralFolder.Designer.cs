@@ -74,7 +74,6 @@
             this.ribbonControl1.ExpandCollapseItem.Id = 0;
             this.ribbonControl1.Items.AddRange(new DevExpress.XtraBars.BarItem[] {
             this.ribbonControl1.ExpandCollapseItem,
-            this.ribbonControl1.SearchEditItem,
             this.btnITDepartment,
             this.btnManageDepartment,
             this.btnTraditionalDepartment,
@@ -410,8 +409,6 @@
             this.ClientSize = new System.Drawing.Size(1474, 720);
             this.Controls.Add(this.ribbonControl1);
             this.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.IconOptions.Icon = ((System.Drawing.Icon)(resources.GetObject("FormCentralFolder.IconOptions.Icon")));
-            this.IconOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("FormCentralFolder.IconOptions.SvgImage")));
             this.IsMdiContainer = true;
             this.Name = "FormCentralFolder";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

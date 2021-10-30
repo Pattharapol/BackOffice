@@ -37,15 +37,10 @@ namespace HumanResource.zProject_DrugManagement.ui
             this.labelControl2 = new DevExpress.XtraEditors.LabelControl();
             this.btnSearch = new DevExpress.XtraEditors.SimpleButton();
             this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
-            this.groupControl2 = new DevExpress.XtraEditors.GroupControl();
-            this.groupControl3 = new DevExpress.XtraEditors.GroupControl();
-            this.dgvUncheck = new System.Windows.Forms.DataGridView();
-            this.dgvChecked = new System.Windows.Forms.DataGridView();
-            this.btnAllNotCo = new DevExpress.XtraEditors.SimpleButton();
-            this.ep = new System.Windows.Forms.ErrorProvider(this.components);
-            this.lblCount = new DevExpress.XtraEditors.LabelControl();
-            this.lblTotal = new DevExpress.XtraEditors.LabelControl();
             this.btnNewReceiveNo = new DevExpress.XtraEditors.SimpleButton();
+            this.groupControl2 = new DevExpress.XtraEditors.GroupControl();
+            this.btnAllNotCo = new DevExpress.XtraEditors.SimpleButton();
+            this.dgvUncheck = new System.Windows.Forms.DataGridView();
             this.colID = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colReceiveNo = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colVendorName = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -55,7 +50,11 @@ namespace HumanResource.zProject_DrugManagement.ui
             this.colCO_SSK = new System.Windows.Forms.DataGridViewButtonColumn();
             this.colCO_SubSSK = new System.Windows.Forms.DataGridViewButtonColumn();
             this.colNOT_CO = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.groupControl3 = new DevExpress.XtraEditors.GroupControl();
             this.btnSaveAll = new DevExpress.XtraEditors.SimpleButton();
+            this.lblTotal = new DevExpress.XtraEditors.LabelControl();
+            this.lblCount = new DevExpress.XtraEditors.LabelControl();
+            this.dgvChecked = new System.Windows.Forms.DataGridView();
             this.id = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -78,15 +77,16 @@ namespace HumanResource.zProject_DrugManagement.ui
             this.Column19 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column20 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column21 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ep = new System.Windows.Forms.ErrorProvider(this.components);
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txtInvoiceNo.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
             this.groupControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl2)).BeginInit();
             this.groupControl2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvUncheck)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl3)).BeginInit();
             this.groupControl3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvUncheck)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvChecked)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ep)).BeginInit();
             this.SuspendLayout();
@@ -151,6 +151,16 @@ namespace HumanResource.zProject_DrugManagement.ui
             this.groupControl1.Size = new System.Drawing.Size(843, 109);
             this.groupControl1.TabIndex = 84;
             // 
+            // btnNewReceiveNo
+            // 
+            this.btnNewReceiveNo.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnNewReceiveNo.ImageOptions.Image")));
+            this.btnNewReceiveNo.Location = new System.Drawing.Point(637, 44);
+            this.btnNewReceiveNo.Name = "btnNewReceiveNo";
+            this.btnNewReceiveNo.Size = new System.Drawing.Size(145, 42);
+            this.btnNewReceiveNo.TabIndex = 84;
+            this.btnNewReceiveNo.Text = "เลขรับใหม่";
+            this.btnNewReceiveNo.Click += new System.EventHandler(this.btnNewReceiveNo_Click);
+            // 
             // groupControl2
             // 
             this.groupControl2.Controls.Add(this.btnAllNotCo);
@@ -161,17 +171,15 @@ namespace HumanResource.zProject_DrugManagement.ui
             this.groupControl2.TabIndex = 85;
             this.groupControl2.Text = "เวชภัณฑ์รอตรวจรับ";
             // 
-            // groupControl3
+            // btnAllNotCo
             // 
-            this.groupControl3.Controls.Add(this.btnSaveAll);
-            this.groupControl3.Controls.Add(this.lblTotal);
-            this.groupControl3.Controls.Add(this.lblCount);
-            this.groupControl3.Controls.Add(this.dgvChecked);
-            this.groupControl3.Location = new System.Drawing.Point(33, 499);
-            this.groupControl3.Name = "groupControl3";
-            this.groupControl3.Size = new System.Drawing.Size(1241, 307);
-            this.groupControl3.TabIndex = 86;
-            this.groupControl3.Text = "เวชภัณฑ์ที่ตรวจรับแล้ว";
+            this.btnAllNotCo.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.btnAllNotCo.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnAllNotCo.ImageOptions.Image")));
+            this.btnAllNotCo.Location = new System.Drawing.Point(567, 31);
+            this.btnAllNotCo.Name = "btnAllNotCo";
+            this.btnAllNotCo.Size = new System.Drawing.Size(123, 37);
+            this.btnAllNotCo.TabIndex = 83;
+            this.btnAllNotCo.Text = "ไม่มีซื้อร่วม";
             // 
             // dgvUncheck
             // 
@@ -201,87 +209,6 @@ namespace HumanResource.zProject_DrugManagement.ui
             this.dgvUncheck.Size = new System.Drawing.Size(1231, 240);
             this.dgvUncheck.TabIndex = 0;
             this.dgvUncheck.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvUncheck_CellContentClick);
-            // 
-            // dgvChecked
-            // 
-            this.dgvChecked.AllowUserToAddRows = false;
-            this.dgvChecked.AllowUserToDeleteRows = false;
-            this.dgvChecked.AllowUserToResizeColumns = false;
-            this.dgvChecked.BackgroundColor = System.Drawing.Color.White;
-            this.dgvChecked.ColumnHeadersHeight = 30;
-            this.dgvChecked.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
-            this.dgvChecked.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.id,
-            this.Column1,
-            this.Column2,
-            this.Column3,
-            this.Column4,
-            this.Column5,
-            this.Column6,
-            this.Column7,
-            this.Column8,
-            this.Column9,
-            this.Column10,
-            this.Column11,
-            this.Column12,
-            this.Column13,
-            this.Column14,
-            this.Column15,
-            this.Column16,
-            this.Column17,
-            this.Column18,
-            this.Column19,
-            this.Column20,
-            this.Column21});
-            this.dgvChecked.Location = new System.Drawing.Point(5, 73);
-            this.dgvChecked.MultiSelect = false;
-            this.dgvChecked.Name = "dgvChecked";
-            this.dgvChecked.ReadOnly = true;
-            this.dgvChecked.RowHeadersVisible = false;
-            this.dgvChecked.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.DisableResizing;
-            this.dgvChecked.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvChecked.Size = new System.Drawing.Size(1231, 229);
-            this.dgvChecked.TabIndex = 1;
-            // 
-            // btnAllNotCo
-            // 
-            this.btnAllNotCo.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.btnAllNotCo.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton1.ImageOptions.Image1")));
-            this.btnAllNotCo.Location = new System.Drawing.Point(567, 31);
-            this.btnAllNotCo.Name = "btnAllNotCo";
-            this.btnAllNotCo.Size = new System.Drawing.Size(123, 37);
-            this.btnAllNotCo.TabIndex = 83;
-            this.btnAllNotCo.Text = "ไม่มีซื้อร่วม";
-            // 
-            // ep
-            // 
-            this.ep.ContainerControl = this;
-            // 
-            // lblCount
-            // 
-            this.lblCount.Location = new System.Drawing.Point(179, 46);
-            this.lblCount.Name = "lblCount";
-            this.lblCount.Size = new System.Drawing.Size(59, 21);
-            this.lblCount.TabIndex = 2;
-            this.lblCount.Text = "lblCount";
-            // 
-            // lblTotal
-            // 
-            this.lblTotal.Location = new System.Drawing.Point(292, 46);
-            this.lblTotal.Name = "lblTotal";
-            this.lblTotal.Size = new System.Drawing.Size(51, 21);
-            this.lblTotal.TabIndex = 3;
-            this.lblTotal.Text = "lblTotal";
-            // 
-            // btnNewReceiveNo
-            // 
-            this.btnNewReceiveNo.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton1.ImageOptions.Image")));
-            this.btnNewReceiveNo.Location = new System.Drawing.Point(637, 44);
-            this.btnNewReceiveNo.Name = "btnNewReceiveNo";
-            this.btnNewReceiveNo.Size = new System.Drawing.Size(145, 42);
-            this.btnNewReceiveNo.TabIndex = 84;
-            this.btnNewReceiveNo.Text = "เลขรับใหม่";
-            this.btnNewReceiveNo.Click += new System.EventHandler(this.btnNewReceiveNo_Click);
             // 
             // colID
             // 
@@ -360,17 +287,86 @@ namespace HumanResource.zProject_DrugManagement.ui
             this.colNOT_CO.ReadOnly = true;
             this.colNOT_CO.Resizable = System.Windows.Forms.DataGridViewTriState.False;
             this.colNOT_CO.Visible = false;
-            this.colNOT_CO.Width = 95;
+            this.colNOT_CO.Width = 76;
+            // 
+            // groupControl3
+            // 
+            this.groupControl3.Controls.Add(this.btnSaveAll);
+            this.groupControl3.Controls.Add(this.lblTotal);
+            this.groupControl3.Controls.Add(this.lblCount);
+            this.groupControl3.Controls.Add(this.dgvChecked);
+            this.groupControl3.Location = new System.Drawing.Point(33, 499);
+            this.groupControl3.Name = "groupControl3";
+            this.groupControl3.Size = new System.Drawing.Size(1241, 307);
+            this.groupControl3.TabIndex = 86;
+            this.groupControl3.Text = "เวชภัณฑ์ที่ตรวจรับแล้ว";
             // 
             // btnSaveAll
             // 
             this.btnSaveAll.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.btnSaveAll.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton1.ImageOptions.Image2")));
+            this.btnSaveAll.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnSaveAll.ImageOptions.Image")));
             this.btnSaveAll.Location = new System.Drawing.Point(567, 30);
             this.btnSaveAll.Name = "btnSaveAll";
             this.btnSaveAll.Size = new System.Drawing.Size(123, 37);
             this.btnSaveAll.TabIndex = 84;
             this.btnSaveAll.Text = "บันทึก";
+            // 
+            // lblTotal
+            // 
+            this.lblTotal.Location = new System.Drawing.Point(292, 46);
+            this.lblTotal.Name = "lblTotal";
+            this.lblTotal.Size = new System.Drawing.Size(51, 21);
+            this.lblTotal.TabIndex = 3;
+            this.lblTotal.Text = "lblTotal";
+            // 
+            // lblCount
+            // 
+            this.lblCount.Location = new System.Drawing.Point(179, 46);
+            this.lblCount.Name = "lblCount";
+            this.lblCount.Size = new System.Drawing.Size(59, 21);
+            this.lblCount.TabIndex = 2;
+            this.lblCount.Text = "lblCount";
+            // 
+            // dgvChecked
+            // 
+            this.dgvChecked.AllowUserToAddRows = false;
+            this.dgvChecked.AllowUserToDeleteRows = false;
+            this.dgvChecked.AllowUserToResizeColumns = false;
+            this.dgvChecked.BackgroundColor = System.Drawing.Color.White;
+            this.dgvChecked.ColumnHeadersHeight = 30;
+            this.dgvChecked.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
+            this.dgvChecked.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.id,
+            this.Column1,
+            this.Column2,
+            this.Column3,
+            this.Column4,
+            this.Column5,
+            this.Column6,
+            this.Column7,
+            this.Column8,
+            this.Column9,
+            this.Column10,
+            this.Column11,
+            this.Column12,
+            this.Column13,
+            this.Column14,
+            this.Column15,
+            this.Column16,
+            this.Column17,
+            this.Column18,
+            this.Column19,
+            this.Column20,
+            this.Column21});
+            this.dgvChecked.Location = new System.Drawing.Point(5, 73);
+            this.dgvChecked.MultiSelect = false;
+            this.dgvChecked.Name = "dgvChecked";
+            this.dgvChecked.ReadOnly = true;
+            this.dgvChecked.RowHeadersVisible = false;
+            this.dgvChecked.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.DisableResizing;
+            this.dgvChecked.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dgvChecked.Size = new System.Drawing.Size(1231, 229);
+            this.dgvChecked.TabIndex = 1;
             // 
             // id
             // 
@@ -554,6 +550,10 @@ namespace HumanResource.zProject_DrugManagement.ui
             this.Column21.ReadOnly = true;
             this.Column21.Visible = false;
             // 
+            // ep
+            // 
+            this.ep.ContainerControl = this;
+            // 
             // frmCooperateCheck
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
@@ -564,6 +564,7 @@ namespace HumanResource.zProject_DrugManagement.ui
             this.Controls.Add(this.panel1);
             this.FormBorderEffect = DevExpress.XtraEditors.FormBorderEffect.Shadow;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmCooperateCheck";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmCooperateCheck";
@@ -577,10 +578,10 @@ namespace HumanResource.zProject_DrugManagement.ui
             this.groupControl1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl2)).EndInit();
             this.groupControl2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dgvUncheck)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl3)).EndInit();
             this.groupControl3.ResumeLayout(false);
             this.groupControl3.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvUncheck)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvChecked)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ep)).EndInit();
             this.ResumeLayout(false);

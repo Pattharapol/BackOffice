@@ -120,5 +120,11 @@ namespace HumanResource
         private void FormMain_Load(object sender, EventArgs e)
         {
         }
+
+        private void btnRandomCheckOfficer_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            frmRandomCheckOfficer f = new frmRandomCheckOfficer();
+            f.ShowDialog();
+        }
     }
 }

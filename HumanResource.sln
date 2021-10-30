@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31515.178
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanResource", "HumanResource.csproj", "{2911135A-62F7-4D1B-8145-5EC45BFF1FF6}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BackOfficeApplicationSetup", "..\BackOfficeApplicationSetup\BackOfficeApplicationSetup.vdproj", "{3696573E-B4EA-4ECF-BB1D-7A4CF45677A2}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{E17B6762-A09F-41F5-AC3F-DACEB529E7FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,13 +32,13 @@ Global
 		{2911135A-62F7-4D1B-8145-5EC45BFF1FF6}.release-46|Any CPU.Build.0 = Release|Any CPU
 		{2911135A-62F7-4D1B-8145-5EC45BFF1FF6}.release-461|Any CPU.ActiveCfg = Release|Any CPU
 		{2911135A-62F7-4D1B-8145-5EC45BFF1FF6}.release-461|Any CPU.Build.0 = Release|Any CPU
-		{3696573E-B4EA-4ECF-BB1D-7A4CF45677A2}.Debug|Any CPU.ActiveCfg = Debug
-		{3696573E-B4EA-4ECF-BB1D-7A4CF45677A2}.Release|Any CPU.ActiveCfg = Release
-		{3696573E-B4EA-4ECF-BB1D-7A4CF45677A2}.release-40|Any CPU.ActiveCfg = Release
-		{3696573E-B4EA-4ECF-BB1D-7A4CF45677A2}.release-45|Any CPU.ActiveCfg = Release
-		{3696573E-B4EA-4ECF-BB1D-7A4CF45677A2}.release-452|Any CPU.ActiveCfg = Release
-		{3696573E-B4EA-4ECF-BB1D-7A4CF45677A2}.release-46|Any CPU.ActiveCfg = Release
-		{3696573E-B4EA-4ECF-BB1D-7A4CF45677A2}.release-461|Any CPU.ActiveCfg = Release
+		{E17B6762-A09F-41F5-AC3F-DACEB529E7FF}.Debug|Any CPU.ActiveCfg = Debug
+		{E17B6762-A09F-41F5-AC3F-DACEB529E7FF}.Release|Any CPU.ActiveCfg = Release
+		{E17B6762-A09F-41F5-AC3F-DACEB529E7FF}.release-40|Any CPU.ActiveCfg = Release
+		{E17B6762-A09F-41F5-AC3F-DACEB529E7FF}.release-45|Any CPU.ActiveCfg = Release
+		{E17B6762-A09F-41F5-AC3F-DACEB529E7FF}.release-452|Any CPU.ActiveCfg = Release
+		{E17B6762-A09F-41F5-AC3F-DACEB529E7FF}.release-46|Any CPU.ActiveCfg = Release
+		{E17B6762-A09F-41F5-AC3F-DACEB529E7FF}.release-461|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

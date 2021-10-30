@@ -54,8 +54,6 @@
             this.ClientSize = new System.Drawing.Size(175, 39);
             this.Controls.Add(this.txtPassword);
             this.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.IconOptions.Icon = ((System.Drawing.Icon)(resources.GetObject("FormAccessFolder.IconOptions.Icon")));
-            this.IconOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("FormAccessFolder.IconOptions.SvgImage")));
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(268, 108);
             this.MinimizeBox = false;

@@ -345,6 +345,7 @@ namespace HumanResource.zProject_ThaiNationalIDCard.UI
                     //pic.MoveTo($@"{destinationFolder}\{pic.Name}");
                     //The Wait Form is opened in a separate thread.
                     //To change its Description, use the SetWaitFormDescription method.
+                    //SplashScreenManager.ShowForm(this, typeof(FormProgressIndicator), true, true, false);
                     SplashScreenManager.Default.SetWaitFormCaption("กรุณารอสักครู่...");
                     SplashScreenManager.Default.SetWaitFormDescription($"กำลังย้ายรูป => {pic.Name}");
                     Thread.Sleep(10);

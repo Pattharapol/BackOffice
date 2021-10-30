@@ -171,8 +171,7 @@
             this.ClientSize = new System.Drawing.Size(1492, 738);
             this.Controls.Add(this.groupControl1);
             this.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.IconOptions.Icon = ((System.Drawing.Icon)(resources.GetObject("FormServiceWorkerReport.IconOptions.Icon")));
-            this.IconOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("FormServiceWorkerReport.IconOptions.SvgImage")));
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormServiceWorkerReport";
             this.Text = "รายงานการมาทำงานสายของเจ้าหน้าที่สายบริการ";
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).EndInit();

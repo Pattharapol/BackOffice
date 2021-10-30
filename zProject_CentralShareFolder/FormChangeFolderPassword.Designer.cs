@@ -99,8 +99,6 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lblDepartment);
             this.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.IconOptions.Icon = ((System.Drawing.Icon)(resources.GetObject("FormChangeFolderPassword.IconOptions.Icon")));
-            this.IconOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("FormChangeFolderPassword.IconOptions.SvgImage")));
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(358, 181);
             this.MinimizeBox = false;

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BackOfficeApplication.DataCenter;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -31,6 +32,11 @@ namespace HumanResource.DataCenter
                 sw.WriteLine(errorMessage + " at " + fromForm);
                 sw.Close();
             }
+        }
+
+        public static string getUSERID_fromUSERNAME(string userName)
+        {
+            return DataAccess.RetriveData(string.Format(@"SELECT id FROM human_resource.userinfo WHERE NAME = '{0}'", userName)).Rows[0][0].ToString();
         }
     }
 }

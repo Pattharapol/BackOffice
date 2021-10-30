@@ -44,6 +44,7 @@
             this.barSubItem1 = new DevExpress.XtraBars.BarSubItem();
             this.btnEditOffDuty = new DevExpress.XtraBars.BarButtonItem();
             this.barStaticItem3 = new DevExpress.XtraBars.BarStaticItem();
+            this.btnRandomCheckOfficer = new DevExpress.XtraBars.BarButtonItem();
             this.ribbonPage1 = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.ribbonPageGroup1 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonPageGroup2 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
@@ -61,7 +62,6 @@
             this.ribbonControl1.ExpandCollapseItem.Id = 0;
             this.ribbonControl1.Items.AddRange(new DevExpress.XtraBars.BarItem[] {
             this.ribbonControl1.ExpandCollapseItem,
-            this.ribbonControl1.SearchEditItem,
             this.btnOffDutyMenu,
             this.barStaticItem1,
             this.btnUpdateData,
@@ -74,14 +74,15 @@
             this.barListItem1,
             this.barSubItem1,
             this.btnEditOffDuty,
-            this.barStaticItem3});
+            this.barStaticItem3,
+            this.btnRandomCheckOfficer});
             this.ribbonControl1.Location = new System.Drawing.Point(0, 0);
-            this.ribbonControl1.MaxItemId = 15;
+            this.ribbonControl1.MaxItemId = 16;
             this.ribbonControl1.Name = "ribbonControl1";
             this.ribbonControl1.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
             this.ribbonPage1});
             this.ribbonControl1.RibbonStyle = DevExpress.XtraBars.Ribbon.RibbonControlStyle.Office2013;
-            this.ribbonControl1.Size = new System.Drawing.Size(1384, 190);
+            this.ribbonControl1.Size = new System.Drawing.Size(1392, 182);
             this.ribbonControl1.StatusBar = this.ribbonStatusBar1;
             // 
             // btnOffDutyMenu
@@ -241,6 +242,17 @@
             this.barStaticItem3.Id = 14;
             this.barStaticItem3.Name = "barStaticItem3";
             // 
+            // btnRandomCheckOfficer
+            // 
+            this.btnRandomCheckOfficer.Caption = "สุ่มตรวจ";
+            this.btnRandomCheckOfficer.Id = 15;
+            this.btnRandomCheckOfficer.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnRandomCheckOfficer.ImageOptions.Image")));
+            this.btnRandomCheckOfficer.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("btnRandomCheckOfficer.ImageOptions.LargeImage")));
+            this.btnRandomCheckOfficer.ItemAppearance.Normal.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRandomCheckOfficer.ItemAppearance.Normal.Options.UseFont = true;
+            this.btnRandomCheckOfficer.Name = "btnRandomCheckOfficer";
+            this.btnRandomCheckOfficer.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.btnRandomCheckOfficer_ItemClick);
+            // 
             // ribbonPage1
             // 
             this.ribbonPage1.Appearance.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -271,15 +283,16 @@
             this.ribbonPageGroup3.ItemLinks.Add(this.barButtonItem7);
             this.ribbonPageGroup3.ItemLinks.Add(this.barButtonItem8);
             this.ribbonPageGroup3.ItemLinks.Add(this.btnOffDutyReport);
+            this.ribbonPageGroup3.ItemLinks.Add(this.btnRandomCheckOfficer);
             this.ribbonPageGroup3.Name = "ribbonPageGroup3";
             this.ribbonPageGroup3.Text = "รายงาน";
             // 
             // ribbonStatusBar1
             // 
-            this.ribbonStatusBar1.Location = new System.Drawing.Point(0, 759);
+            this.ribbonStatusBar1.Location = new System.Drawing.Point(0, 760);
             this.ribbonStatusBar1.Name = "ribbonStatusBar1";
             this.ribbonStatusBar1.Ribbon = this.ribbonControl1;
-            this.ribbonStatusBar1.Size = new System.Drawing.Size(1384, 28);
+            this.ribbonStatusBar1.Size = new System.Drawing.Size(1392, 27);
             // 
             // barButtonItem5
             // 
@@ -324,13 +337,12 @@
             // 
             this.Appearance.Options.UseFont = true;
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.ClientSize = new System.Drawing.Size(1384, 787);
+            this.ClientSize = new System.Drawing.Size(1392, 787);
             this.Controls.Add(this.ribbonStatusBar1);
             this.Controls.Add(this.ribbonControl1);
             this.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderEffect = DevExpress.XtraEditors.FormBorderEffect.Shadow;
-            this.IconOptions.Icon = ((System.Drawing.Icon)(resources.GetObject("FormMain.IconOptions.Icon")));
-            this.IconOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("FormMain.IconOptions.SvgImage")));
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.IsMdiContainer = true;
             this.Name = "FormMain";
             this.Ribbon = this.ribbonControl1;
@@ -370,6 +382,7 @@
         private DevExpress.XtraTabbedMdi.XtraTabbedMdiManager xtraTabbedMdiManager;
         private DevExpress.XtraBars.BarButtonItem btnEditOffDuty;
         private DevExpress.XtraBars.BarStaticItem barStaticItem3;
+        private DevExpress.XtraBars.BarButtonItem btnRandomCheckOfficer;
     }
 }
 
