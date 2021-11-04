@@ -1,0 +1,477 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F1CF13B0-612D-4537-9A3E-1F25F0AAC8EB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BackOfficeApplication</RootNamespace>
+    <AssemblyName>BackOfficeApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.5.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.5\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.Desktop.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.Data.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.Office.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v21.1.Export, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v21.1.UI, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraGauges.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v21.1.Extensions, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Google.Protobuf, Version=3.14.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.14.0\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.1.2.6\lib\net46\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.Streams.1.2.6\lib\net46\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.6.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Hash.xxHash.1.0.6\lib\net46\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.27.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.27\lib\net452\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="pcsc-sharp, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\ThaiNationalIDCard\ThaiNationalIDCard-master\packages\ThaiNationalIDCard.2.0.0\lib\net40\pcsc-sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\netstandard1.1\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\netstandard1.1\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ThaiNationalIDCard">
+      <HintPath>..\..\ThaiNationalIDCard\ThaiNationalIDCard-master\packages\ThaiNationalIDCard.2.0.0\lib\net40\ThaiNationalIDCard.dll</HintPath>
+    </Reference>
+    <Reference Include="Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.27\lib\net452\Ubiety.Dns.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="ZstdNet, Version=1.4.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.27\lib\net452\ZstdNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataCenter\Authentication.cs" />
+    <Compile Include="DataCenter\CommonCOde.cs" />
+    <Compile Include="DataCenter\DataAccess.cs" />
+    <Compile Include="DataCenter\LocalhostDataAccess.cs" />
+    <Compile Include="DataCenter\MSAccessDataAccess.cs" />
+    <Compile Include="Model\ConnectionString.cs" />
+    <Compile Include="Model\Person.cs" />
+    <Compile Include="Project_Covid19Vaccine\UI\FormCovid19VaccineMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_Covid19Vaccine\UI\FormCovid19VaccineMain.Designer.cs">
+      <DependentUpon>FormCovid19VaccineMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_Covid19Vaccine\UI\FormLoginCovid19Vaccine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_Covid19Vaccine\UI\FormLoginCovid19Vaccine.Designer.cs">
+      <DependentUpon>FormLoginCovid19Vaccine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_DrugInventoryManagement\UI\FormDrugMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_DrugInventoryManagement\UI\FormDrugMain.Designer.cs">
+      <DependentUpon>FormDrugMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_DrugInventoryManagement\UI\FormLoginDrug.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_DrugInventoryManagement\UI\FormLoginDrug.Designer.cs">
+      <DependentUpon>FormLoginDrug.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_DrugInventoryManagement\UI\FormReceiveProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_DrugInventoryManagement\UI\FormReceiveProducts.Designer.cs">
+      <DependentUpon>FormReceiveProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_HR\Report\dsCheckIN_OUT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsCheckIN_OUT.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Project_HR\Report\dsOffDuty.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsOffDuty.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Project_HR\Report\dsRandomCheckOfficer.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsRandomCheckOfficer.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Project_HR\Report\rptCheckIN_OUT.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Project_HR\Report\rptCheckIN_OUT.Designer.cs">
+      <DependentUpon>rptCheckIN_OUT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_HR\Report\rptOffDuty.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Project_HR\Report\rptOffDuty.Designer.cs">
+      <DependentUpon>rptOffDuty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_HR\Report\rptRandomCheckOfficer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Project_HR\Report\rptRandomCheckOfficer.Designer.cs">
+      <DependentUpon>rptRandomCheckOfficer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormLoginHR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormLoginHR.Designer.cs">
+      <DependentUpon>FormLoginHR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormMainHR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormMainHR.Designer.cs">
+      <DependentUpon>FormMainHR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormOffDuty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormOffDuty.Designer.cs">
+      <DependentUpon>FormOffDuty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormOffDutyReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormOffDutyReport.Designer.cs">
+      <DependentUpon>FormOffDutyReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormOffDutyType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormOffDutyType.Designer.cs">
+      <DependentUpon>FormOffDutyType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormRandomCheckOfficer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormRandomCheckOfficer.Designer.cs">
+      <DependentUpon>FormRandomCheckOfficer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormReport.Designer.cs">
+      <DependentUpon>FormReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormSearchOfficer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormSearchOfficer.Designer.cs">
+      <DependentUpon>FormSearchOfficer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormTypeOfOffDuty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormTypeOfOffDuty.Designer.cs">
+      <DependentUpon>FormTypeOfOffDuty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormUpdateData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_HR\UI\FormUpdateData.Designer.cs">
+      <DependentUpon>FormUpdateData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_MainMenu\FormLoginSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_MainMenu\FormLoginSetting.Designer.cs">
+      <DependentUpon>FormLoginSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_MainMenu\FormMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_MainMenu\FormMainMenu.Designer.cs">
+      <DependentUpon>FormMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Project_MainMenu\FormProgressIndicator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_MainMenu\FormProgressIndicator.Designer.cs">
+      <DependentUpon>FormProgressIndicator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_MainMenu\FormSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_MainMenu\FormSetting.Designer.cs">
+      <DependentUpon>FormSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_SmartCard\Model\APDU_THAILAND_IDCARD.cs" />
+    <Compile Include="Project_SmartCard\Model\APDU_THAILAND_IDCARD_TYPE_01.cs" />
+    <Compile Include="Project_SmartCard\Model\APDU_THAILAND_IDCARD_TYPE_02.cs" />
+    <Compile Include="Project_SmartCard\Model\IAPDU_THAILAND_IDCARD.cs" />
+    <Compile Include="Project_SmartCard\Model\Personal.cs" />
+    <Compile Include="Project_SmartCard\Model\ThaiIDCard.cs" />
+    <Compile Include="Project_SmartCard\Report\dsBarcode.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsBarcode.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Project_SmartCard\Report\rptBarcode.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Project_SmartCard\Report\rptBarcode.Designer.cs">
+      <DependentUpon>rptBarcode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_SmartCard\UI\FormLoginSmartCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_SmartCard\UI\FormLoginSmartCard.Designer.cs">
+      <DependentUpon>FormLoginSmartCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_SmartCard\UI\FormSmartCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_SmartCard\UI\FormSmartCard.Designer.cs">
+      <DependentUpon>FormSmartCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project_SmartCard\UI\FormVaccineTransferData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_SmartCard\UI\FormVaccineTransferData.Designer.cs">
+      <DependentUpon>FormVaccineTransferData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Project_Covid19Vaccine\UI\FormCovid19VaccineMain.resx">
+      <DependentUpon>FormCovid19VaccineMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_Covid19Vaccine\UI\FormLoginCovid19Vaccine.resx">
+      <DependentUpon>FormLoginCovid19Vaccine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_DrugInventoryManagement\UI\FormDrugMain.resx">
+      <DependentUpon>FormDrugMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_DrugInventoryManagement\UI\FormLoginDrug.resx">
+      <DependentUpon>FormLoginDrug.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_DrugInventoryManagement\UI\FormReceiveProducts.resx">
+      <DependentUpon>FormReceiveProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_HR\Report\rptCheckIN_OUT.resx">
+      <DependentUpon>rptCheckIN_OUT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_HR\Report\rptOffDuty.resx">
+      <DependentUpon>rptOffDuty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_HR\Report\rptRandomCheckOfficer.resx">
+      <DependentUpon>rptRandomCheckOfficer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_HR\UI\FormLoginHR.resx">
+      <DependentUpon>FormLoginHR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_HR\UI\FormMainHR.resx">
+      <DependentUpon>FormMainHR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_HR\UI\FormOffDuty.resx">
+      <DependentUpon>FormOffDuty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_HR\UI\FormOffDutyReport.resx">
+      <DependentUpon>FormOffDutyReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_HR\UI\FormOffDutyType.resx">
+      <DependentUpon>FormOffDutyType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_HR\UI\FormRandomCheckOfficer.resx">
+      <DependentUpon>FormRandomCheckOfficer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_HR\UI\FormReport.resx">
+      <DependentUpon>FormReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_HR\UI\FormSearchOfficer.resx">
+      <DependentUpon>FormSearchOfficer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_HR\UI\FormTypeOfOffDuty.resx">
+      <DependentUpon>FormTypeOfOffDuty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_HR\UI\FormUpdateData.resx">
+      <DependentUpon>FormUpdateData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_MainMenu\FormLoginSetting.resx">
+      <DependentUpon>FormLoginSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_MainMenu\FormMainMenu.resx">
+      <DependentUpon>FormMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_MainMenu\FormProgressIndicator.resx">
+      <DependentUpon>FormProgressIndicator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_MainMenu\FormSetting.resx">
+      <DependentUpon>FormSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_SmartCard\Report\rptBarcode.resx">
+      <DependentUpon>rptBarcode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_SmartCard\UI\FormLoginSmartCard.resx">
+      <DependentUpon>FormLoginSmartCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_SmartCard\UI\FormSmartCard.resx">
+      <DependentUpon>FormSmartCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_SmartCard\UI\FormVaccineTransferData.resx">
+      <DependentUpon>FormVaccineTransferData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Project_HR\Report\dsCheckIN_OUT.xsc">
+      <DependentUpon>dsCheckIN_OUT.xsd</DependentUpon>
+    </None>
+    <None Include="Project_HR\Report\dsCheckIN_OUT.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsCheckIN_OUT.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Project_HR\Report\dsCheckIN_OUT.xss">
+      <DependentUpon>dsCheckIN_OUT.xsd</DependentUpon>
+    </None>
+    <None Include="Project_HR\Report\dsOffDuty.xsc">
+      <DependentUpon>dsOffDuty.xsd</DependentUpon>
+    </None>
+    <None Include="Project_HR\Report\dsOffDuty.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsOffDuty.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Project_HR\Report\dsOffDuty.xss">
+      <DependentUpon>dsOffDuty.xsd</DependentUpon>
+    </None>
+    <None Include="Project_HR\Report\dsRandomCheckOfficer.xsc">
+      <DependentUpon>dsRandomCheckOfficer.xsd</DependentUpon>
+    </None>
+    <None Include="Project_HR\Report\dsRandomCheckOfficer.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsRandomCheckOfficer.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Project_HR\Report\dsRandomCheckOfficer.xss">
+      <DependentUpon>dsRandomCheckOfficer.xsd</DependentUpon>
+    </None>
+    <None Include="Project_SmartCard\Report\dsBarcode.xsc">
+      <DependentUpon>dsBarcode.xsd</DependentUpon>
+    </None>
+    <None Include="Project_SmartCard\Report\dsBarcode.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsBarcode.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Project_SmartCard\Report\dsBarcode.xss">
+      <DependentUpon>dsBarcode.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Image\psswlogo_XbZ_icon.ico" />
+    <None Include="Resources\PsswLogo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Project_Covid19Vaccine\Report\" />
+    <Folder Include="Project_DrugInventoryManagement\Model\" />
+    <Folder Include="Project_DrugInventoryManagement\Report\" />
+    <Folder Include="Project_HR\Model\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
