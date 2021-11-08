@@ -1,7 +1,9 @@
 ﻿using BackOfficeApplication.DataCenter;
 using BackOfficeApplication.Model;
+using BackOfficeApplication.Project_MainMenu;
 using BackOfficeApplication.Project_SmartCard.Report;
 using DevExpress.XtraEditors;
+using DevExpress.XtraSplashScreen;
 using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
@@ -13,6 +15,7 @@ using System.IO;
 using System.Linq;
 using System.Management;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using ThaiNationalIDCard;
@@ -196,6 +199,14 @@ namespace BackOfficeApplication.Project_SmartCard.UI
                     return;
                 }
 
+                //Open Wait Form
+                SplashScreenManager.ShowForm(this, typeof(FormProgressIndicator), true, true, false);
+                //The Wait Form is opened in a separate thread.
+                //To change its Description, use the SetWaitFormDescription method.
+                SplashScreenManager.Default.SetWaitFormCaption("กำลังอ่านข้อมูลบัตรประชาชน");
+                SplashScreenManager.Default.SetWaitFormDescription("กรุณารอสักครู่...");
+                Thread.Sleep(10);
+
                 lbl_cid.BeginInvoke(new MethodInvoker(delegate { lbl_cid.Text = personal.Citizenid; }));
                 lbl_birthday.BeginInvoke(new MethodInvoker(delegate { lbl_birthday.Text = personal.Birthday.ToString("yyyy-MM-dd"); }));
                 lbl_sex.BeginInvoke(new MethodInvoker(delegate { lbl_sex.Text = personal.Sex; }));
@@ -208,6 +219,9 @@ namespace BackOfficeApplication.Project_SmartCard.UI
                 lbl_issue.BeginInvoke(new MethodInvoker(delegate { lbl_issue.Text = personal.Issue.ToString("dd/MM/yyyy"); }));
                 lbl_expire.BeginInvoke(new MethodInvoker(delegate { lbl_expire.Text = personal.Expire.ToString("dd/MM/yyyy"); }));
                 pbPictureFromIDCard.BeginInvoke(new MethodInvoker(delegate { pbPictureFromIDCard.Image = personal.PhotoBitmap; }));
+
+                SplashScreenManager.Default.CloseWaitForm();
+                Thread.Sleep(10);
 
                 ///////////////////////////////////
                 LogLine(personal.Address);

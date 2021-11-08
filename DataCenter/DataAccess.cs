@@ -26,7 +26,7 @@ namespace BackOfficeApplication.DataCenter
                 ConnectionString.Server = strCon[0];
                 ConnectionString.Userid = strCon[1];
                 ConnectionString.Password = strCon[2];
-                con = new MySqlConnection($"Persist Security Info=False;server={ConnectionString.Server};userid={ConnectionString.Userid};password={ConnectionString.Password};pooling=false; charset=tis620;Allow User Variables=true;default command timeout=820;Max Pool Size=200;Allow User Variables=true;Allow Zero Datetime=true;");
+                // con = new MySqlConnection($"Persist Security Info=False;server={ConnectionString.Server};userid={ConnectionString.Userid};password={ConnectionString.Password};pooling=false; charset=tis620;Allow User Variables=true;default command timeout=820;Max Pool Size=200;Allow User Variables=true;Allow Zero Datetime=true;");
             }
             catch
             {
@@ -40,20 +40,18 @@ namespace BackOfficeApplication.DataCenter
             try
             {
                 con.Open();
-                if(con.State == ConnectionState.Open)
+                if (con.State == ConnectionState.Open)
                 {
                     result = true;
                 }
                 con.Close();
                 return result;
             }
-            catch 
+            catch
             {
                 result = false;
                 return result;
             }
-
-
         }
 
         /// <summary>

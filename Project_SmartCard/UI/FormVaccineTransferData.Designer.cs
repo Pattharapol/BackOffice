@@ -29,6 +29,7 @@ namespace BackOfficeApplication.Project_SmartCard.UI
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormVaccineTransferData));
             this.dgvNewPT = new System.Windows.Forms.DataGridView();
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
             this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
@@ -89,6 +90,7 @@ namespace BackOfficeApplication.Project_SmartCard.UI
             // 
             // btnTestMovePictures
             // 
+            this.btnTestMovePictures.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnTestMovePictures.ImageOptions.Image")));
             this.btnTestMovePictures.Location = new System.Drawing.Point(704, 33);
             this.btnTestMovePictures.Name = "btnTestMovePictures";
             this.btnTestMovePictures.Size = new System.Drawing.Size(128, 39);
@@ -97,6 +99,7 @@ namespace BackOfficeApplication.Project_SmartCard.UI
             // 
             // btnDoWork
             // 
+            this.btnDoWork.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnDoWork.ImageOptions.Image")));
             this.btnDoWork.Location = new System.Drawing.Point(838, 33);
             this.btnDoWork.Name = "btnDoWork";
             this.btnDoWork.Size = new System.Drawing.Size(128, 39);
@@ -150,6 +153,7 @@ namespace BackOfficeApplication.Project_SmartCard.UI
             // 
             // btnSearch
             // 
+            this.btnSearch.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("btnSearch.ImageOptions.SvgImage")));
             this.btnSearch.Location = new System.Drawing.Point(287, 33);
             this.btnSearch.Name = "btnSearch";
             this.btnSearch.Size = new System.Drawing.Size(128, 39);

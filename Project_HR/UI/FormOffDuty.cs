@@ -30,6 +30,7 @@ namespace BackOfficeApplication.Project_HR.UI
 
         public void FillComboboxTypeOf_OffDuty()
         {
+            cboType.Items.Clear();
             DataTable dt = new DataTable();
             dt = DataAccess.RetriveData("SELECT type_name FROM human_resource.off_duty_type");
 
@@ -38,6 +39,7 @@ namespace BackOfficeApplication.Project_HR.UI
             {
                 cboType.Items.Add(data["type_name"].ToString());
             }
+            cboType.SelectedIndex = 0;
         }
 
         private void LoadOffDutyWorker()

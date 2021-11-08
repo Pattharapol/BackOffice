@@ -30,10 +30,10 @@ namespace BackOfficeApplication.Project_MainMenu
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormSetting));
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle11 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle12 = new System.Windows.Forms.DataGridViewCellStyle();
             this.edit = new System.Windows.Forms.DataGridViewLinkColumn();
             this.cbxPicPath = new System.Windows.Forms.ComboBox();
             this.labelControl4 = new DevExpress.XtraEditors.LabelControl();
@@ -51,6 +51,14 @@ namespace BackOfficeApplication.Project_MainMenu
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
             this.groupControl2 = new DevExpress.XtraEditors.GroupControl();
             this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
+            this.labelControl5 = new DevExpress.XtraEditors.LabelControl();
+            this.labelControl6 = new DevExpress.XtraEditors.LabelControl();
+            this.labelControl7 = new DevExpress.XtraEditors.LabelControl();
+            this.labelControl8 = new DevExpress.XtraEditors.LabelControl();
+            this.labelControl9 = new DevExpress.XtraEditors.LabelControl();
+            this.labelControl10 = new DevExpress.XtraEditors.LabelControl();
+            this.labelControl11 = new DevExpress.XtraEditors.LabelControl();
+            this.cboTypeOfUse = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.txtPassword.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtUserID.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtServer.Properties)).BeginInit();
@@ -78,7 +86,7 @@ namespace BackOfficeApplication.Project_MainMenu
             this.cbxPicPath.Items.AddRange(new object[] {
             "\\\\192.168.0.15\\ubuntu@15\\#3 Pictures\\PeopleImage\\",
             "C:\\Temp\\Pictures\\"});
-            this.cbxPicPath.Location = new System.Drawing.Point(132, 141);
+            this.cbxPicPath.Location = new System.Drawing.Point(131, 184);
             this.cbxPicPath.Name = "cbxPicPath";
             this.cbxPicPath.Size = new System.Drawing.Size(262, 29);
             this.cbxPicPath.TabIndex = 7;
@@ -87,7 +95,7 @@ namespace BackOfficeApplication.Project_MainMenu
             // 
             this.labelControl4.Appearance.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelControl4.Appearance.Options.UseFont = true;
-            this.labelControl4.Location = new System.Drawing.Point(31, 145);
+            this.labelControl4.Location = new System.Drawing.Point(30, 188);
             this.labelControl4.Name = "labelControl4";
             this.labelControl4.Size = new System.Drawing.Size(90, 21);
             this.labelControl4.TabIndex = 6;
@@ -98,7 +106,7 @@ namespace BackOfficeApplication.Project_MainMenu
             this.btnTestConnection.Appearance.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTestConnection.Appearance.Options.UseFont = true;
             this.btnTestConnection.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnTestConnection.ImageOptions.Image")));
-            this.btnTestConnection.Location = new System.Drawing.Point(132, 181);
+            this.btnTestConnection.Location = new System.Drawing.Point(131, 224);
             this.btnTestConnection.Name = "btnTestConnection";
             this.btnTestConnection.Size = new System.Drawing.Size(156, 40);
             this.btnTestConnection.TabIndex = 4;
@@ -110,7 +118,7 @@ namespace BackOfficeApplication.Project_MainMenu
             this.btnSave.Appearance.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSave.Appearance.Options.UseFont = true;
             this.btnSave.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnSave.ImageOptions.Image")));
-            this.btnSave.Location = new System.Drawing.Point(294, 181);
+            this.btnSave.Location = new System.Drawing.Point(293, 224);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(100, 40);
             this.btnSave.TabIndex = 3;
@@ -119,7 +127,7 @@ namespace BackOfficeApplication.Project_MainMenu
             // 
             // txtPassword
             // 
-            this.txtPassword.Location = new System.Drawing.Point(132, 111);
+            this.txtPassword.Location = new System.Drawing.Point(131, 154);
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.Properties.Appearance.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPassword.Properties.Appearance.Options.UseFont = true;
@@ -129,7 +137,7 @@ namespace BackOfficeApplication.Project_MainMenu
             // 
             // txtUserID
             // 
-            this.txtUserID.Location = new System.Drawing.Point(132, 78);
+            this.txtUserID.Location = new System.Drawing.Point(131, 121);
             this.txtUserID.Name = "txtUserID";
             this.txtUserID.Properties.Appearance.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtUserID.Properties.Appearance.Options.UseFont = true;
@@ -138,7 +146,7 @@ namespace BackOfficeApplication.Project_MainMenu
             // 
             // txtServer
             // 
-            this.txtServer.Location = new System.Drawing.Point(132, 45);
+            this.txtServer.Location = new System.Drawing.Point(131, 88);
             this.txtServer.Name = "txtServer";
             this.txtServer.Properties.Appearance.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtServer.Properties.Appearance.Options.UseFont = true;
@@ -167,20 +175,20 @@ namespace BackOfficeApplication.Project_MainMenu
             this.dgvFolderAccess.AllowUserToDeleteRows = false;
             this.dgvFolderAccess.AllowUserToResizeColumns = false;
             this.dgvFolderAccess.AllowUserToResizeRows = false;
-            dataGridViewCellStyle5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(238)))), ((int)(((byte)(239)))), ((int)(((byte)(249)))));
-            this.dgvFolderAccess.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle5;
+            dataGridViewCellStyle9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(238)))), ((int)(((byte)(239)))), ((int)(((byte)(249)))));
+            this.dgvFolderAccess.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle9;
             this.dgvFolderAccess.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
             this.dgvFolderAccess.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.dgvFolderAccess.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.dgvFolderAccess.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleHorizontal;
-            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(25)))), ((int)(((byte)(70)))));
-            dataGridViewCellStyle6.Font = new System.Drawing.Font("Segoe UI", 12F);
-            dataGridViewCellStyle6.ForeColor = System.Drawing.Color.WhiteSmoke;
-            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvFolderAccess.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle6;
+            dataGridViewCellStyle10.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(25)))), ((int)(((byte)(70)))));
+            dataGridViewCellStyle10.Font = new System.Drawing.Font("Segoe UI", 12F);
+            dataGridViewCellStyle10.ForeColor = System.Drawing.Color.WhiteSmoke;
+            dataGridViewCellStyle10.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle10.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle10.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvFolderAccess.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle10;
             this.dgvFolderAccess.ColumnHeadersHeight = 30;
             this.dgvFolderAccess.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             this.dgvFolderAccess.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
@@ -188,21 +196,21 @@ namespace BackOfficeApplication.Project_MainMenu
             this.Column2,
             this.Column3,
             this.edit});
-            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle7.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle7.Font = new System.Drawing.Font("Segoe UI", 12F);
-            dataGridViewCellStyle7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(72)))), ((int)(((byte)(70)))), ((int)(((byte)(68)))));
-            dataGridViewCellStyle7.SelectionBackColor = System.Drawing.Color.ForestGreen;
-            dataGridViewCellStyle7.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvFolderAccess.DefaultCellStyle = dataGridViewCellStyle7;
+            dataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle11.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle11.Font = new System.Drawing.Font("Segoe UI", 12F);
+            dataGridViewCellStyle11.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(72)))), ((int)(((byte)(70)))), ((int)(((byte)(68)))));
+            dataGridViewCellStyle11.SelectionBackColor = System.Drawing.Color.ForestGreen;
+            dataGridViewCellStyle11.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle11.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvFolderAccess.DefaultCellStyle = dataGridViewCellStyle11;
             this.dgvFolderAccess.EnableHeadersVisualStyles = false;
             this.dgvFolderAccess.Location = new System.Drawing.Point(5, 25);
             this.dgvFolderAccess.MultiSelect = false;
             this.dgvFolderAccess.Name = "dgvFolderAccess";
             this.dgvFolderAccess.ReadOnly = true;
-            dataGridViewCellStyle8.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dgvFolderAccess.RowsDefaultCellStyle = dataGridViewCellStyle8;
+            dataGridViewCellStyle12.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dgvFolderAccess.RowsDefaultCellStyle = dataGridViewCellStyle12;
             this.dgvFolderAccess.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvFolderAccess.Size = new System.Drawing.Size(473, 454);
             this.dgvFolderAccess.TabIndex = 14;
@@ -219,7 +227,7 @@ namespace BackOfficeApplication.Project_MainMenu
             // 
             this.labelControl3.Appearance.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelControl3.Appearance.Options.UseFont = true;
-            this.labelControl3.Location = new System.Drawing.Point(43, 115);
+            this.labelControl3.Location = new System.Drawing.Point(42, 158);
             this.labelControl3.Name = "labelControl3";
             this.labelControl3.Size = new System.Drawing.Size(78, 21);
             this.labelControl3.TabIndex = 2;
@@ -229,7 +237,7 @@ namespace BackOfficeApplication.Project_MainMenu
             // 
             this.labelControl2.Appearance.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelControl2.Appearance.Options.UseFont = true;
-            this.labelControl2.Location = new System.Drawing.Point(59, 82);
+            this.labelControl2.Location = new System.Drawing.Point(58, 125);
             this.labelControl2.Name = "labelControl2";
             this.labelControl2.Size = new System.Drawing.Size(62, 21);
             this.labelControl2.TabIndex = 1;
@@ -239,7 +247,7 @@ namespace BackOfficeApplication.Project_MainMenu
             // 
             this.labelControl1.Appearance.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelControl1.Appearance.Options.UseFont = true;
-            this.labelControl1.Location = new System.Drawing.Point(65, 49);
+            this.labelControl1.Location = new System.Drawing.Point(64, 92);
             this.labelControl1.Name = "labelControl1";
             this.labelControl1.Size = new System.Drawing.Size(56, 21);
             this.labelControl1.TabIndex = 1;
@@ -260,6 +268,8 @@ namespace BackOfficeApplication.Project_MainMenu
             // 
             this.groupControl1.AppearanceCaption.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupControl1.AppearanceCaption.Options.UseFont = true;
+            this.groupControl1.Controls.Add(this.cboTypeOfUse);
+            this.groupControl1.Controls.Add(this.labelControl11);
             this.groupControl1.Controls.Add(this.cbxPicPath);
             this.groupControl1.Controls.Add(this.labelControl4);
             this.groupControl1.Controls.Add(this.btnTestConnection);
@@ -272,15 +282,106 @@ namespace BackOfficeApplication.Project_MainMenu
             this.groupControl1.Controls.Add(this.labelControl1);
             this.groupControl1.Location = new System.Drawing.Point(30, 28);
             this.groupControl1.Name = "groupControl1";
-            this.groupControl1.Size = new System.Drawing.Size(434, 238);
+            this.groupControl1.Size = new System.Drawing.Size(434, 314);
             this.groupControl1.TabIndex = 2;
             this.groupControl1.Text = "ตั้งค่าระบบ";
+            // 
+            // labelControl5
+            // 
+            this.labelControl5.Appearance.ForeColor = System.Drawing.Color.Red;
+            this.labelControl5.Appearance.Options.UseForeColor = true;
+            this.labelControl5.Location = new System.Drawing.Point(30, 350);
+            this.labelControl5.Name = "labelControl5";
+            this.labelControl5.Size = new System.Drawing.Size(78, 21);
+            this.labelControl5.TabIndex = 4;
+            this.labelControl5.Text = "โปรดอ่าน***";
+            // 
+            // labelControl6
+            // 
+            this.labelControl6.Appearance.ForeColor = System.Drawing.Color.Red;
+            this.labelControl6.Appearance.Options.UseForeColor = true;
+            this.labelControl6.Location = new System.Drawing.Point(30, 377);
+            this.labelControl6.Name = "labelControl6";
+            this.labelControl6.Size = new System.Drawing.Size(188, 21);
+            this.labelControl6.TabIndex = 5;
+            this.labelControl6.Text = "ในกรณีที่จะโอนถ่ายข้อมูล ให้ใช้";
+            // 
+            // labelControl7
+            // 
+            this.labelControl7.Appearance.ForeColor = System.Drawing.Color.Red;
+            this.labelControl7.Appearance.Options.UseForeColor = true;
+            this.labelControl7.Location = new System.Drawing.Point(30, 430);
+            this.labelControl7.Name = "labelControl7";
+            this.labelControl7.Size = new System.Drawing.Size(91, 21);
+            this.labelControl7.TabIndex = 6;
+            this.labelControl7.Text = "User ID : root";
+            // 
+            // labelControl8
+            // 
+            this.labelControl8.Appearance.ForeColor = System.Drawing.Color.Red;
+            this.labelControl8.Appearance.Options.UseForeColor = true;
+            this.labelControl8.Location = new System.Drawing.Point(30, 457);
+            this.labelControl8.Name = "labelControl8";
+            this.labelControl8.Size = new System.Drawing.Size(237, 21);
+            this.labelControl8.TabIndex = 7;
+            this.labelControl8.Text = "Password :      ** ปล่อยเป็นค่าว่างไว้ **";
+            // 
+            // labelControl9
+            // 
+            this.labelControl9.Appearance.ForeColor = System.Drawing.Color.Red;
+            this.labelControl9.Appearance.Options.UseForeColor = true;
+            this.labelControl9.Location = new System.Drawing.Point(30, 484);
+            this.labelControl9.Name = "labelControl9";
+            this.labelControl9.Size = new System.Drawing.Size(266, 21);
+            this.labelControl9.TabIndex = 8;
+            this.labelControl9.Text = "Picture Path : ให้เลือกไปที่ \\\\192.168.0.15";
+            // 
+            // labelControl10
+            // 
+            this.labelControl10.Appearance.ForeColor = System.Drawing.Color.Red;
+            this.labelControl10.Appearance.Options.UseForeColor = true;
+            this.labelControl10.Location = new System.Drawing.Point(30, 404);
+            this.labelControl10.Name = "labelControl10";
+            this.labelControl10.Size = new System.Drawing.Size(118, 21);
+            this.labelControl10.TabIndex = 9;
+            this.labelControl10.Text = "Server : localhost";
+            // 
+            // labelControl11
+            // 
+            this.labelControl11.Appearance.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelControl11.Appearance.Options.UseFont = true;
+            this.labelControl11.Location = new System.Drawing.Point(9, 60);
+            this.labelControl11.Name = "labelControl11";
+            this.labelControl11.Size = new System.Drawing.Size(111, 21);
+            this.labelControl11.TabIndex = 9;
+            this.labelControl11.Text = "ประเภทการใช้งาน :";
+            // 
+            // cboTypeOfUse
+            // 
+            this.cboTypeOfUse.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cboTypeOfUse.FormattingEnabled = true;
+            this.cboTypeOfUse.Items.AddRange(new object[] {
+            "------- ประเภทการใช้งาน -------",
+            "ฉีดวัคซีนในโรงพยาบาล",
+            "ฉีดวัคซีนนอกพื้นที่",
+            "โอนถ่ายข้อมูลการฉีดวัคซีน"});
+            this.cboTypeOfUse.Location = new System.Drawing.Point(131, 57);
+            this.cboTypeOfUse.Name = "cboTypeOfUse";
+            this.cboTypeOfUse.Size = new System.Drawing.Size(262, 29);
+            this.cboTypeOfUse.TabIndex = 10;
+            this.cboTypeOfUse.SelectedIndexChanged += new System.EventHandler(this.cboTypeOfUse_SelectedIndexChanged);
             // 
             // FormSetting
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(983, 540);
+            this.Controls.Add(this.labelControl10);
+            this.Controls.Add(this.labelControl9);
+            this.Controls.Add(this.labelControl8);
+            this.Controls.Add(this.labelControl7);
+            this.Controls.Add(this.labelControl6);
+            this.Controls.Add(this.labelControl5);
             this.Controls.Add(this.groupControl2);
             this.Controls.Add(this.groupControl1);
             this.FormBorderEffect = DevExpress.XtraEditors.FormBorderEffect.Shadow;
@@ -302,6 +403,7 @@ namespace BackOfficeApplication.Project_MainMenu
             this.groupControl1.ResumeLayout(false);
             this.groupControl1.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -324,5 +426,13 @@ namespace BackOfficeApplication.Project_MainMenu
         private DevExpress.XtraEditors.LabelControl labelControl1;
         private DevExpress.XtraEditors.GroupControl groupControl2;
         private DevExpress.XtraEditors.GroupControl groupControl1;
+        private DevExpress.XtraEditors.LabelControl labelControl5;
+        private DevExpress.XtraEditors.LabelControl labelControl6;
+        private DevExpress.XtraEditors.LabelControl labelControl7;
+        private DevExpress.XtraEditors.LabelControl labelControl8;
+        private DevExpress.XtraEditors.LabelControl labelControl9;
+        private DevExpress.XtraEditors.LabelControl labelControl10;
+        private DevExpress.XtraEditors.LabelControl labelControl11;
+        private System.Windows.Forms.ComboBox cboTypeOfUse;
     }
 }

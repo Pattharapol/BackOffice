@@ -26,6 +26,7 @@ namespace BackOfficeApplication.Project_MainMenu
         {
             GetConnection();
             GetDepartment();
+            cboTypeOfUse.SelectedIndex = 0;
         }
 
         private void GetConnection()
@@ -49,7 +50,6 @@ namespace BackOfficeApplication.Project_MainMenu
                 }
                 else
                 {
-                    
                     StreamWriter sw = new StreamWriter(path);
                     sw.WriteLine("192.168.0.2");
                     sw.WriteLine("root");
@@ -61,8 +61,6 @@ namespace BackOfficeApplication.Project_MainMenu
                     ConnectionString.Password = "boom123";
                     //ConnectionString.PicurePath = path;
                 }
-
-                
             }
             catch
             {
@@ -82,7 +80,6 @@ namespace BackOfficeApplication.Project_MainMenu
                     dt = DataAccess.RetriveData(sql);
                     if (dt == null)
                     {
-
                     }
                     if (dt.Rows.Count > 0)
                     {
@@ -94,11 +91,9 @@ namespace BackOfficeApplication.Project_MainMenu
                 }
                 else
                 {
-                    XtraMessageBox.Show("ทำการเชื่อมต่อไม่ได้ กรุณาติดต่อทีม Admin","แจ้งเตือน", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    XtraMessageBox.Show("ทำการเชื่อมต่อไม่ได้ กรุณาติดต่อทีม Admin", "แจ้งเตือน", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return;
                 }
-                
-               
             }
             catch
             {
@@ -196,6 +191,63 @@ namespace BackOfficeApplication.Project_MainMenu
                 XtraMessageBox.Show("บันทึกเรียบร้อยแล้วครับ", "แจ้งทราบ", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             catch
+            {
+            }
+        }
+
+        private void cboTypeOfUse_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            // cboTypeOfUse index
+            // ฉีดวัคซีนในโรงพยาบาล => 1
+            //ฉีดวัคซีนนอกพื้นที่ => 2
+            //โอนถ่ายข้อมูลการฉีดวัคซีน => 3
+            if (cboTypeOfUse.SelectedIndex != 0)
+            {
+                if (cboTypeOfUse.SelectedIndex == 1 || cboTypeOfUse.SelectedIndex == 3)
+                {
+                    //โอนถ่ายข้อมูลการฉีดวัคซีน => 3
+                    // ฉีดวัคซีนในโรงพยาบาล => 1
+                    ConnectionString.Server = "192.168.0.2";
+                    ConnectionString.Userid = "root";
+                    ConnectionString.Password = "boom123";
+                    ConnectionString.PicurePath = @"\\192.168.0.15\ubuntu@15\#3 Pictures\PeopleImage\";
+
+                    string path = "C:\\Temp\\config.txt";
+                    StreamWriter sw = new StreamWriter(path);
+                    sw.WriteLine(ConnectionString.Server);
+                    sw.WriteLine(ConnectionString.Userid);
+                    sw.WriteLine(ConnectionString.Password);
+                    sw.WriteLine(ConnectionString.PicurePath);
+                    sw.Close();
+
+                    txtServer.Text = ConnectionString.Server;
+                    txtUserID.Text = ConnectionString.Userid;
+                    txtPassword.Text = ConnectionString.Password;
+                    cbxPicPath.SelectedIndex = 0;
+                }
+                if (cboTypeOfUse.SelectedIndex == 2)
+                {
+                    //ฉีดวัคซีนนอกพื้นที่ => 2
+                    ConnectionString.Server = "localhost";
+                    ConnectionString.Userid = "root";
+                    ConnectionString.Password = "";
+                    ConnectionString.PicurePath = @"C:\Temp\Pictures\";
+
+                    string path = "C:\\Temp\\config.txt";
+                    StreamWriter sw = new StreamWriter(path);
+                    sw.WriteLine(ConnectionString.Server);
+                    sw.WriteLine(ConnectionString.Userid);
+                    sw.WriteLine(ConnectionString.Password);
+                    sw.WriteLine(ConnectionString.PicurePath);
+                    sw.Close();
+
+                    txtServer.Text = ConnectionString.Server;
+                    txtUserID.Text = ConnectionString.Userid;
+                    txtPassword.Text = ConnectionString.Password;
+                    cbxPicPath.SelectedIndex = 1;
+                }
+            }
+            else
             {
             }
         }

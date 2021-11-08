@@ -34,11 +34,11 @@ namespace BackOfficeApplication.Project_HR.UI
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
-            this.groupControl2 = new DevExpress.XtraEditors.GroupControl();
             this.btnUpdate = new DevExpress.XtraEditors.SimpleButton();
             this.btnSave = new DevExpress.XtraEditors.SimpleButton();
             this.txtOffdutyType = new DevExpress.XtraEditors.TextEdit();
             this.lblCaption = new DevExpress.XtraEditors.LabelControl();
+            this.groupControl2 = new DevExpress.XtraEditors.GroupControl();
             this.btnCancel = new DevExpress.XtraEditors.SimpleButton();
             this.btnEdit = new DevExpress.XtraEditors.SimpleButton();
             this.txtSearch = new System.Windows.Forms.TextBox();
@@ -46,9 +46,9 @@ namespace BackOfficeApplication.Project_HR.UI
             this.dgvOffDutyType = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
             this.groupControl1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.txtOffdutyType.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl2)).BeginInit();
             this.groupControl2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.txtOffdutyType.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvOffDutyType)).BeginInit();
             this.SuspendLayout();
             // 
@@ -63,18 +63,6 @@ namespace BackOfficeApplication.Project_HR.UI
             this.groupControl1.Size = new System.Drawing.Size(213, 333);
             this.groupControl1.TabIndex = 0;
             this.groupControl1.Text = "บันทึก/แก้ไข วันลา";
-            // 
-            // groupControl2
-            // 
-            this.groupControl2.Controls.Add(this.btnCancel);
-            this.groupControl2.Controls.Add(this.btnEdit);
-            this.groupControl2.Controls.Add(this.txtSearch);
-            this.groupControl2.Controls.Add(this.labelControl1);
-            this.groupControl2.Controls.Add(this.dgvOffDutyType);
-            this.groupControl2.Location = new System.Drawing.Point(231, 12);
-            this.groupControl2.Name = "groupControl2";
-            this.groupControl2.Size = new System.Drawing.Size(329, 333);
-            this.groupControl2.TabIndex = 1;
             // 
             // btnUpdate
             // 
@@ -119,6 +107,18 @@ namespace BackOfficeApplication.Project_HR.UI
             this.lblCaption.Size = new System.Drawing.Size(86, 19);
             this.lblCaption.TabIndex = 46;
             this.lblCaption.Text = "ประเภทวันลา";
+            // 
+            // groupControl2
+            // 
+            this.groupControl2.Controls.Add(this.btnCancel);
+            this.groupControl2.Controls.Add(this.btnEdit);
+            this.groupControl2.Controls.Add(this.txtSearch);
+            this.groupControl2.Controls.Add(this.labelControl1);
+            this.groupControl2.Controls.Add(this.dgvOffDutyType);
+            this.groupControl2.Location = new System.Drawing.Point(231, 12);
+            this.groupControl2.Name = "groupControl2";
+            this.groupControl2.Size = new System.Drawing.Size(329, 333);
+            this.groupControl2.TabIndex = 1;
             // 
             // btnCancel
             // 
@@ -220,10 +220,10 @@ namespace BackOfficeApplication.Project_HR.UI
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).EndInit();
             this.groupControl1.ResumeLayout(false);
             this.groupControl1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.txtOffdutyType.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl2)).EndInit();
             this.groupControl2.ResumeLayout(false);
             this.groupControl2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.txtOffdutyType.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvOffDutyType)).EndInit();
             this.ResumeLayout(false);
 

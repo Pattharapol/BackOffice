@@ -403,7 +403,7 @@ namespace BackOfficeApplication.Project_HR.UI
             this.btnSupervisorPrint.Appearance.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSupervisorPrint.Appearance.Options.UseFont = true;
             this.btnSupervisorPrint.Enabled = false;
-            this.btnSupervisorPrint.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("simpleButton1.ImageOptions.SvgImage")));
+            this.btnSupervisorPrint.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("btnSupervisorPrint.ImageOptions.SvgImage")));
             this.btnSupervisorPrint.Location = new System.Drawing.Point(297, 467);
             this.btnSupervisorPrint.Name = "btnSupervisorPrint";
             this.btnSupervisorPrint.Size = new System.Drawing.Size(110, 41);
@@ -417,7 +417,7 @@ namespace BackOfficeApplication.Project_HR.UI
             this.btnSupervisorPDF.Appearance.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSupervisorPDF.Appearance.Options.UseFont = true;
             this.btnSupervisorPDF.Enabled = false;
-            this.btnSupervisorPDF.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton2.ImageOptions.Image")));
+            this.btnSupervisorPDF.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnSupervisorPDF.ImageOptions.Image")));
             this.btnSupervisorPDF.Location = new System.Drawing.Point(413, 467);
             this.btnSupervisorPDF.Name = "btnSupervisorPDF";
             this.btnSupervisorPDF.Size = new System.Drawing.Size(145, 41);
@@ -429,7 +429,7 @@ namespace BackOfficeApplication.Project_HR.UI
             // 
             this.btnSupervisorProcess.Appearance.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSupervisorProcess.Appearance.Options.UseFont = true;
-            this.btnSupervisorProcess.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton3.ImageOptions.Image")));
+            this.btnSupervisorProcess.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnSupervisorProcess.ImageOptions.Image")));
             this.btnSupervisorProcess.Location = new System.Drawing.Point(636, 12);
             this.btnSupervisorProcess.Name = "btnSupervisorProcess";
             this.btnSupervisorProcess.Size = new System.Drawing.Size(135, 41);

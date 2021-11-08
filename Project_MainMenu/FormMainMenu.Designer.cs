@@ -52,6 +52,8 @@ namespace BackOfficeApplication
             // 
             this.btnSmartCardReader.Appearance.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSmartCardReader.Appearance.Options.UseFont = true;
+            this.btnSmartCardReader.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnSmartCardReader.ImageOptions.Image")));
+            this.btnSmartCardReader.ImageOptions.SvgImageColorizationMode = DevExpress.Utils.SvgImageColorizationMode.CommonPalette;
             this.btnSmartCardReader.Location = new System.Drawing.Point(23, 68);
             this.btnSmartCardReader.Name = "btnSmartCardReader";
             this.btnSmartCardReader.Size = new System.Drawing.Size(168, 55);

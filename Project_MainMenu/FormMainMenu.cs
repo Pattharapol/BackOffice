@@ -63,7 +63,6 @@ namespace BackOfficeApplication
             {
                 if (!File.Exists(path))
                 {
-                    
                     StreamWriter sw = new StreamWriter(path);
                     sw.WriteLine("xxx.xxx.xxx.xxx");
                     sw.WriteLine("xxxx");
@@ -72,14 +71,11 @@ namespace BackOfficeApplication
                 }
                 else
                 {
-
                 }
             }
             catch
             {
-
             }
-            
         }
     }
 }

@@ -19,7 +19,8 @@ namespace BackOfficeApplication.Project_HR.UI
             InitializeComponent();
         }
 
-        FormOffDuty FormOffDuty;
+        private FormOffDuty FormOffDuty;
+
         public FormOffDutyType(FormOffDuty formOff)
         {
             InitializeComponent();
@@ -158,7 +159,6 @@ namespace BackOfficeApplication.Project_HR.UI
 
                         LoadOffDutyType("");
                         FormOffDuty.FillComboboxTypeOf_OffDuty();
-
                     }
                 }
                 else

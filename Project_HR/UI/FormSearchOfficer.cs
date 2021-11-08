@@ -105,7 +105,7 @@ namespace BackOfficeApplication.Project_HR.UI
                 if (dgvSearch.SelectedRows.Count == 1)
                 {
                     FormRandomCheckOfficer.txtSearchOfficer.Text = dgvSearch.CurrentRow.Cells[0].Value.ToString();
-                    FormRandomCheckOfficer.txtSearchOfficer.ReadOnly = true; 
+                    FormRandomCheckOfficer.txtSearchOfficer.ReadOnly = true;
                     this.Close();
                 }
             }

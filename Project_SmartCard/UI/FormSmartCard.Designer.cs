@@ -30,6 +30,7 @@ namespace BackOfficeApplication.Project_SmartCard.UI
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormSmartCard));
             this.label23 = new System.Windows.Forms.Label();
             this.btnTransferData = new DevExpress.XtraEditors.SimpleButton();
             this.label20 = new System.Windows.Forms.Label();
@@ -105,9 +106,10 @@ namespace BackOfficeApplication.Project_SmartCard.UI
             // 
             // btnTransferData
             // 
+            this.btnTransferData.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("btnTransferData.ImageOptions.SvgImage")));
             this.btnTransferData.Location = new System.Drawing.Point(23, 316);
             this.btnTransferData.Name = "btnTransferData";
-            this.btnTransferData.Size = new System.Drawing.Size(158, 49);
+            this.btnTransferData.Size = new System.Drawing.Size(168, 49);
             this.btnTransferData.TabIndex = 201;
             this.btnTransferData.Text = "โอนข้อมูลฉีดวัคซีน";
             this.btnTransferData.Click += new System.EventHandler(this.btnTransferData_Click);
@@ -133,7 +135,7 @@ namespace BackOfficeApplication.Project_SmartCard.UI
             // 
             this.btnUpdateHN.Location = new System.Drawing.Point(23, 389);
             this.btnUpdateHN.Name = "btnUpdateHN";
-            this.btnUpdateHN.Size = new System.Drawing.Size(158, 49);
+            this.btnUpdateHN.Size = new System.Drawing.Size(168, 49);
             this.btnUpdateHN.TabIndex = 202;
             this.btnUpdateHN.Text = "อัปเดท HN";
             // 
@@ -167,6 +169,7 @@ namespace BackOfficeApplication.Project_SmartCard.UI
             this.btnPrintMoreSticker.TabIndex = 197;
             this.btnPrintMoreSticker.Text = "พิมพ์สติกเกอร์เพิ่ม";
             this.btnPrintMoreSticker.UseVisualStyleBackColor = true;
+            this.btnPrintMoreSticker.Visible = false;
             // 
             // btnFindByCID_HN
             // 
@@ -177,6 +180,7 @@ namespace BackOfficeApplication.Project_SmartCard.UI
             this.btnFindByCID_HN.TabIndex = 196;
             this.btnFindByCID_HN.Text = "ลงทะเบียนจากบัตรประชาชน";
             this.btnFindByCID_HN.UseVisualStyleBackColor = true;
+            this.btnFindByCID_HN.Visible = false;
             // 
             // label19
             // 
@@ -268,6 +272,7 @@ namespace BackOfficeApplication.Project_SmartCard.UI
             this.btnTestPrint.TabIndex = 187;
             this.btnTestPrint.Text = "Test Print";
             this.btnTestPrint.UseVisualStyleBackColor = true;
+            this.btnTestPrint.Visible = false;
             // 
             // txtPrintNumber
             // 
@@ -462,6 +467,7 @@ namespace BackOfficeApplication.Project_SmartCard.UI
             this.PhotoProgressBar1.Name = "PhotoProgressBar1";
             this.PhotoProgressBar1.Size = new System.Drawing.Size(347, 23);
             this.PhotoProgressBar1.TabIndex = 169;
+            this.PhotoProgressBar1.Visible = false;
             // 
             // pbPictureFromIDCard
             // 

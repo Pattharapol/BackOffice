@@ -23,7 +23,6 @@ namespace BackOfficeApplication.Project_HR.UI
     {
         // เอาไว้ทำรายงานด้วย
         private DataTable dtResult = new DataTable();
-  
 
         public FormRandomCheckOfficer()
         {
@@ -48,8 +47,6 @@ namespace BackOfficeApplication.Project_HR.UI
             catch
             {
             }
-
-            
 
             SplashScreenManager.ShowForm(this, typeof(FormProgressIndicator), true, true, false);
             SplashScreenManager.Default.SetWaitFormCaption("กรุณารอสักครู่...");
